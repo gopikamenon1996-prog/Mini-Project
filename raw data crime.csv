@@ -1,0 +1,1272 @@
+﻿Incident ID,Report date,Incident time,State,City,Crime category,Offense,Location type,Victim age,Victim gender,Case status,Case severity
+CR00621,26-07-2025,18:15,Andhra Pradesh,Vijayawada,Violent Crime,Assault,Market,13,Other,Charges Filed,medium
+CR01649,18-11-2025,20:13,Telangana,Hyderabad,Public Order,Trespassing,Educational Institution,29,Other,Under Investigation,medium
+CR01798,28-03-2025,07:37,Karnataka,Bengaluru,Fraud,Identity Fraud,Online,32,male,Under Investigation,medium
+CR00083,11-05-2025,16:18,Karnataka,Mysuru,Violent Crime,Homicide,Office,35,Female,Charges Filed,Low
+CR00123,03-07-2025,07:56,Karnataka,Mysuru,Public Order,Public Disturbance,Office,34,male,Charges Filed,Low
+CR01236,11-07-2025,11:51,Telangana,Hyderabad,Property Crime,Vehicle Theft,Public Transport,41,Other,Closed,High
+CR01781,27-05-2025,07:22,Karnataka,Bengaluru,Cybercrime,Online Harassment,Online,30,Female,Closed,Critical
+CR00916,29-04-2025,08:13,Andhra Pradesh,Vijayawada,Property Crime,Burglary,Public Transport,38,Female,Pending Court,High
+CR01015,31-05-2025,20:16,Maharashtra,Mumbai,Fraud,Financial Scam,Online,60,Not recorded,Unresolved,medium
+CR01611,19-11-2025,07:21,Andhra Pradesh,Vijayawada,Violent Crime,Homicide,Educational Institution,42,Other,Under Investigation,Low
+CR01109,28-04-2025,08:23,Maharashtra,Pune,Property Crime,Vehicle Theft,Educational Institution,44,Female,Pending Court,Low
+CR00068,29-04-2025,00:58,Kerala,Kochi,Property Crime,Vehicle Theft,Online,37,Other,Under Investigation,Low
+CR01407,27-03-2025,23:45,Delhi,New Delhi,Property Crime,Burglary,Educational Institution,34,Female,Under Investigation,High
+CR00861,13-04-2025,07:22,Karnataka,Mysuru,Cybercrime,Account Hacking,Online,33,Female,Under Investigation,medium
+CR01412,31-07-2025,03:37,Telangana,Hyderabad,Fraud,Online Fraud,Online,12,male,Pending Court,Low
+CR01497,18-11-2025,21:21,Maharashtra,Mumbai,Violent Crime,Robbery,Office,43,Other,Unresolved,High
+CR01286,15-07-2025,11:59,Maharashtra,Mumbai,Violent Crime,Robbery,Commercial Area,12,Not recorded,Closed,High
+CR00690,21-10-2025,04:42,Karnataka,Bengaluru,Violent Crime,Assault,Market,39,Other,Charges Filed,Critical
+CR00976,30-10-2025,17:11,Maharashtra,Mumbai,Fraud,Online Fraud,Online,46,Other,Charges Filed,medium
+CR00960,05-08-2025,14:11,Andhra Pradesh,Vijayawada,Fraud,Online Fraud,Online,36,male,charges filed,Critical
+CR00137,11-07-2025,01:31,Telangana,Hyderabad,Property Crime,Theft,Residential Area,38,,Pending Court,medium
+CR00730,14-03-2025,02:59,Andhra Pradesh,Vijayawada,Public Order,Trespassing,Residential Area,33,Other,Pending Court,Low
+CR01513,17-06-2025,08:23,Kerala,Kochi,Fraud,Online Fraud,Online,45,Other,Unresolved,Low
+CR01338,18-08-2025,02:50,Delhi,New Delhi,Fraud,Financial Scam,Online,59,Not recorded,Pending Court,medium
+CR01052,07-05-2025,12:05,Maharashtra,Pune,Public Order,Trespassing,Online,50,Other,Unresolved,High
+CR01148,04-05-2025,09:49,Kerala,Kochi,Violent Crime,Assault,Market,18,Other,Charges Filed,medium
+CR00950,03-02-2025,18:50,Andhra Pradesh,Vijayawada,Public Order,Public Disturbance,MARKET,12,Not recorded,Pending Court,Low
+CR00901,12-01-2025,06:01,Andhra Pradesh,Vijayawada,Cybercrime,Phishing,Online,42,Other,Pending Court,medium
+CR01629,24-09-2025,13:00,Kerala,Kochi,Violent Crime,Homicide,Educational Institution,43,male,Under Investigation,Low
+CR01421,25-11-2025,02:50,Tamil Nadu,Coimbatore,Fraud,Financial Scam,Online,58,Not recorded,Pending Court,High
+CR00434,03-08-2025,01:23,Maharashtra,Mumbai,Violent Crime,Assault,Road/Street,16x,Female,Charges Filed,Low
+CR00652,22-01-2025,01:56,Maharashtra,Pune,Property Crime,Vehicle Theft,Public Transport,39,Female,Under Investigation,Low
+CR00203,05-03-2025,23:15,Tamil Nadu,Coimbatore,Violent Crime,Homicide,Market,44,male,Pending Court,Low
+CR00708,22-09-2025,09:35,Kerala,Kochi,Public Order,Public Disturbance,Public Transport,61,Not recorded,Charges Filed,Low
+CR01788,02-10-2025,09:42,Karnataka,Mysuru,Fraud,Online Fraud,Online,17,Not recorded,Unresolved,High
+CR01583,23-03-2025,03:20,Kerala,Kochi,Cybercrime,Account Hacking,Online,47,Other,Pending Court,Low
+CR00299,17-03-2025,17:27,Maharashtra,Mumbai,Violent Crime,Assault,Office,44,Other,Unresolved,Critical
+CR00677,07-04-2025,01:17,Andhra Pradesh,Vijayawada,Violent Crime,Homicide,Road/Street,51,Not recorded,Charges Filed,medium
+CR00641,30-10-2025,20:36,Tamil Nadu,Chennai,Property crime,Burglary,Market,23,male,Charges Filed,High
+CR00507,01-04-2025,17:26,Karnataka,Bengaluru,Property Crime,Vehicle Theft,Educational Institution,46,male,Closed,medium
+CR00306,05-10-2025,02:02,Karnataka,Mysuru,Violent Crime,Robbery,Office,36,Other,,medium
+CR01399,03-02-2025,17:17,Andhra Pradesh,Vijayawada,  Property Crime,Vehicle Theft,Residential Area,12,Other,Charges Filed,Low
+CR01373,04-12-2025,07:19,Kerala,Kochi,Fraud,Financial Scam,Online,22,Not recorded,Under Investigation,Low
+CR01451,13-03-2025,04:22,Telangana,Hyderabad,Fraud,Financial Scam,Online,26,Not recorded,Unresolved,medium
+CR01637,18-09-2025,00:10,Maharashtra,  Pune,Property Crime,Vehicle Theft,Public Transport,45,Female,Closed,High
+CR00923,06-06-2025,11:05,Telangana,Hyderabad,Violent Crime,Homicide,Residential Area,12,Female,Closed,medium
+CR01087,25-12-2025,05:05,Karnataka,Bengaluru,cybercrime,Online Harassment,Online,41,male,Unresolved,medium
+CR01510,23-07-2025,14:41,Tamil Nadu,Coimbatore  ,Violent Crime,Homicide,Office,49,Not recorded,Pending Court,Low
+CR01458,27-01-2025,20:49,Karnataka,Bengaluru,Cybercrime,online harassment,Online,12,male,Pending Court  ,medium
+CR00612,06-05-2025,14:19,Tamil Nadu,Coimbatore,Property Crime,Burglary,Office,40,Not recorded,Charges Filed,High
+CR00113,08-03-2025,12:49,Telangana,Hyderabad,Fraud,Online Fraud,Online,29,Not recorded,Unresolved,Low
+CR01361,24-10-2025,19:15,Tamil Nadu,Chennai,Property Crime,Vandalism,Public Transport,13,Not recorded,Unresolved,Low
+CR00452,12-05-2025,04:41,Maharashtra,Pune,Cybercrime,Phishing,  Online,19,Not recorded,Under Investigation,High
+CR01684,23-04-2025,16:46,Karnataka,Mysuru,Public Order,Public Disturbance,Residential Area,46,Female,Under Investigation,Low
+CR01491,09-06-2025,09:41,Kerala,Kochi,Cybercrime,Online Harassment,Online,21,Other,Charges Filed,Low
+CR01505,03-01-2025,05:15,Karnataka,BENGALURU,Fraud,Online Fraud,Online,26,Other,Closed,medium
+CR00284,03-07-2025,12:18,Telangana,Hyderabad,Property Crime,Vehicle Theft,Public Transport,21,Female,Unresolved,Low
+CR00678,24-06-2025,04:03,Kerala,Kochi,Public Order,Drug Possession,Commercial Area,52,Female,Pending Court,medium
+CR00750,11-04-2025,03:16,Telangana,Hyderabad,Violent Crime,Homicide,Online,37,Not recorded,Charges Filed,medium
+CR01121,16-09-2025,02:03,Maharashtra,Pune,Property Crime,Vehicle Theft,Online,12,Other,Pending Court,medium
+CR00959,31-05-2025,14:51,Karnataka,Bengaluru,Property Crime,Burglary,Online,49,Female,Charges Filed,Critical
+CR00324,06-09-2025,12:17,Maharashtra,Pune,Violent Crime,Homicide,Market,25,male,Charges Filed,High
+CR00069,04-07-2025,08:00,Kerala,Kochi,Property Crime,Vandalism,Market,45,,Closed,Low
+CR00496,01-11-2025,15:25,Telangana,Hyderabad,Public Order,Drug Possession,Residential Area,12,Female,Pending Court,medium
+CR01623,25-07-2025,15:27,Karnataka,Bengaluru,Cybercrime,Account Hacking,Online,46,Other,Unresolved,medium
+CR00135,11-01-2025,18:07,karnataka,Bengaluru,Public Order,Drug Possession,Educational Institution,40,Not recorded,Unresolved,Critical
+CR00917,15-10-2025,13:37,Tamil Nadu,Chennai,Property Crime,Vehicle Theft,Educational Institution,24,Female,Unresolved,medium
+CR01636,14-03-2025,06:41,Maharashtra,Pune,Public Order,Drug Possession,Office,35,Female,Unresolved,medium
+CR01024,07-10-2025,22:49,Tamil Nadu,Coimbatore,Property Crime,Vandalism,Commercial Area,27,male,Closed,medium
+CR01582,18-04-2025,17:39,Delhi,NEW DELHI,Fraud,Identity Fraud,Online,48,Female,Charges Filed,High
+CR01315,10-04-2025,22:19,Telangana,Hyderabad,Cybercrime,Account Hacking,Online,25,male,Pending Court,medium
+CR00524,18-01-2025,23:40,Maharashtra,Mumbai,Fraud,Online Fraud,Online,32,Female,Unresolved,Low
+CR01527,22-05-2025,22:29,Maharashtra,Mumbai,Cybercrime,Online Harassment,Online,37,Female,Unresolved,High
+CR00849,08-08-2025,12:30,Karnataka,Mysuru,Cybercrime,Phishing,Online,69,Female,Pending Court,medium
+CR00192,26-08-2025,01:03,Tamil Nadu,Coimbatore,Property Crime,Vehicle Theft,Online,16,male,Unresolved,Low
+CR01537,19-08-2025,18:37,Andhra Pradesh,Vijayawada,Fraud,Financial Scam,Online,35,Female,UNDER INVESTIGATION,High
+CR00551,27-12-2025,00:33,Karnataka,Bengaluru,Property Crime,Vandalism,Market,45,Female,Closed,High
+CR01197,02-09-2025,17:29,Karnataka,Bengaluru,Fraud,Financial Scam,Online,24,Not recorded,Charges Filed,medium
+CR00469,28-10-2025,12:02,Delhi,New Delhi,Fraud,Financial Scam,Online,65,Other,Under Investigation,Low
+CR00510,30-06-2025,10:50,  Andhra Pradesh,Vijayawada,Violent Crime,Assault,Office,44,Female,Charges Filed,medium
+CR00953,29-04-2025,02:02,Maharashtra,Mumbai,Fraud,  Identity Fraud,Online,51,Other,Unresolved,Low
+CR01340,14-04-2025,06:28,Maharashtra,Pune,Cybercrime,Account Hacking,Online,51,male,Unresolved,medium
+CR00428,01-06-2025,05:27,Maharashtra,Mumbai,Property Crime,Theft,Residential Area,40,Female,Under Investigation,High
+CR01463,18-04-2025,08:59,Maharashtra,Mumbai,Cybercrime,Account Hacking,Online,30,Other,Under Investigation,Critical
+CR00461,26-03-2025,06:17,Delhi,New Delhi,Violent Crime,Assault,Office,39,Not recorded,Under Investigation,medium
+CR00440,05-05-2025,10:00,Andhra Pradesh,Vijayawada,Cybercrime,Online Harassment,Online,30,Other,Closed,Low
+CR00455,06-02-2025,07:49,Kerala,Kochi,Property Crime,Vandalism,Residential Area,19,Female,Pending Court,Low
+CR00153,14-12-2025,03:55,Delhi,New Delhi,Cybercrime,Online Harassment,Online,65,Female,Unresolved,Low
+CR00186,04-06-2025,17:53,Tamil Nadu,Coimbatore,Violent Crime,Homicide  ,Market,31,Not recorded,Charges Filed,Low
+CR00144,23-10-2025,15:53,Andhra Pradesh,Vijayawada,Cybercrime,Phishing,Online,46,Female,Closed,medium
+CR00468,18-10-2025,09:36,Karnataka,Bengaluru,Public Order,Public Disturbance,Market,12,male,Pending Court,Low
+CR01049,05-09-2025,23:14,Maharashtra,Pune,Fraud,Online Fraud,Online,32,Female,Closed,Critical
+CR00992,06-05-2025,20:49,Kerala,Kochi,Fraud,Identity Fraud,Online,30,Not recorded,Pending Court,medium
+CR00049,21-03-2025,18:56,Kerala,Kochi,Violent Crime,Assault,Market,38,Not recorded,Charges Filed,Low
+CR01540,19-02-2025,18:55,Karnataka,Mysuru,Public Order,Public Disturbance,Road/Street,41,Female,Pending Court,medium
+CR00967,28-12-2025,13:06,Karnataka,Bengaluru,Fraud,Financial Scam,Online,53,Other,Closed,High
+CR00512,07-01-2025,05:27,Tamil Nadu,Chennai,Violent Crime,Homicide,Online,12,Female,Pending Court,Low
+CR01699,30-05-2025,13:08,Maharashtra,Pune,Cybercrime,Phishing,Online,30,Other,Pending Court,Low
+CR01689,11-03-2025,18:45,Telangana,Hyderabad,Cybercrime,Account Hacking,  Online,64,Other,Charges Filed,Low
+CR01390,26-09-2025,07:57,Andhra Pradesh,Vijayawada,Violent Crime,Assault,Educational Institution,22,Not recorded,Pending Court,Low
+CR01488,01-11-2025,22:39,Karnataka,Mysuru,Fraud,Financial Scam,Online,12,Not recorded,Pending Court,medium
+CR00058,25-07-2025,04:02,Maharashtra,Pune,Fraud,Online Fraud,Online,33,Other,Pending Court,Low
+CR00930,06-02-2025,13:24,Kerala,Kochi,Fraud,Identity Fraud,Online,45,male,Unresolved,medium
+CR01251,30-03-2025,08:19,Karnataka,Bengaluru,Violent Crime,Robbery,Road/Street,44,male,Closed,medium
+CR01253,02-05-2025,17:24,Maharashtra,Pune,Violent Crime,Robbery,Online,50,Female,Unresolved,Low
+CR01279,25-11-2025,09:47,Andhra Pradesh,Vijayawada,Public Order,Drug Possession,Residential Area,47,Other,Under Investigation,Low
+CR01159,11-06-2025,10:07,Tamil Nadu,COIMBATORE,Cybercrime,Account Hacking,Online,41,Other,Under Investigation,Low
+CR00393,08-04-2025,10:24,Maharashtra,Pune,Public Order,Trespassing,Educational Institution,44,Other,  Under Investigation,High
+CR01666,08-12-2025,01:46,Telangana,Hyderabad,Fraud,Financial Scam,Online,48,Female,Closed,High
+CR01107,24-01-2025,06:29,Kerala,Kochi,Violent Crime,Assault,Office,31,Female,Charges Filed,Low
+CR00966,20-11-2025,16:54,Telangana,Hyderabad,Public Order,Trespassing,Online,15,Female,Under Investigation,medium
+CR00503,22-08-2025,07:49,Andhra Pradesh,Vijayawada,Violent Crime,HOMICIDE,Road/Street,34,Female,Unresolved,High
+CR01165,21-07-2025,20:44,Maharashtra,Mumbai,Property Crime,Vandalism,Online,58,Female,Charges Filed,Critical
+CR00813,06-06-2025,04:55,Andhra Pradesh,Vijayawada,Violent Crime,Homicide,Residential Area,19,male,Charges Filed,medium
+CR01740,15-06-2025,03:48,Tamil Nadu,Chennai,Cybercrime,Online Harassment,Online,30,male,Unresolved,High
+CR00827,26-04-2025,22:47,Delhi,New Delhi,Property Crime,Vandalism,Market,46,Not recorded,Closed,Critical
+CR00680,11-04-2025,13:20,Karnataka,Mysuru,Public Order,Public Disturbance,Residential Area,51,Female,Charges Filed,High
+CR00030,18-07-2025,14:27,Maharashtra,Mumbai,Fraud,Financial Scam,Online,69,Other,Charges Filed,High
+CR01099,04-10-2025,08:23,Maharashtra,Mumbai,Public Order,Public Disturbance,Road/Street,56,male,Closed,medium
+CR00755,31-12-2025,00:31,Andhra Pradesh,Vijayawada,Fraud,Financial Scam,Online,42,Female,Under Investigation,medium
+CR00878,15-02-2025,21:47,Tamil Nadu,Coimbatore,Violent Crime,Homicide,Public Transport,36,Not recorded,Charges Filed,medium
+CR00009,13-11-2025,07:22,Maharashtra,Pune,Cybercrime,Phishing,Online,17,Female,Unresolved,medium
+CR01719,04-06-2025,20:04,Karnataka,Bengaluru,Public Order,Drug Possession,Commercial Area,17,,Under Investigation,Low
+CR01429,16-02-2025,14:46,Tamil Nadu,Coimbatore,Fraud,Online Fraud,Online,56,Female,Under Investigation,Low
+CR01693,30-09-2025,17:08,Telangana,Hyderabad,Fraud,Online Fraud,Online,27,Female,Under Investigation,medium
+CR00385,13-09-2025,00:09,Tamil Nadu,Chennai,Property Crime,Burglary,Commercial Area,48,male,Closed,Low
+CR01022,05-04-2025,16:23,Andhra Pradesh,Vijayawada,Property Crime,Burglary,Office,33,Female,Closed,medium
+CR01694,11-03-2025,04:24,Kerala,Kochi,Public Order,Trespassing,Market,50,male,Unresolved,Low
+CR00894,24-07-2025,10:37,Telangana,Hyderabad,Violent Crime,Homicide,Educational Institution,42,Other,Under Investigation,medium
+CR00028,28-05-2025,22:42,Kerala,Kochi,Violent Crime,Homicide,Office,13,Not recorded,Charges Filed,Critical
+CR01143,30-03-2025,02:18,Karnataka,Mysuru,Property Crime,Burglary,Online,26,Other,Charges Filed,medium
+CR01094,07-06-2025,01:32,Kerala,Kochi,Cybercrime,Account Hacking,Online,56,Not recorded,Unresolved,Low
+CR00914,26-02-2025,14:58,Maharashtra,Mumbai,Fraud,Identity Fraud,Online,39,Not recorded,Charges Filed,Low
+CR00290,02-04-2025,10:10,Telangana,Hyderabad,Public Order,Trespassing,Market,42,Other,Pending Court,medium
+CR01725,09-09-2025,19:25,Telangana,Hyderabad,Property Crime,Vandalism,Residential Area,48,Not recorded,Pending Court,Critical
+CR01014,18-10-2025,11:22,Maharashtra,Mumbai,Violent Crime,Homicide,Road/Street,50,Other,Closed,Low
+CR01530,01-12-2025,02:32,Maharashtra,Mumbai,Violent Crime,Assault,Public Transport,12,Not recorded,Under Investigation,medium
+CR01271,03-07-2025,21:48,Delhi,New Delhi,Public Order,Trespassing,Road/Street,28,Other,Pending Court,High
+CR00314,10-09-2025,01:22,Andhra Pradesh,Vijayawada,Fraud,Online Fraud,Online,37,Other,UNDER INVESTIGATION,medium
+CR00107,10-02-2025,13:33,Karnataka,Mysuru,Public Order,Trespassing,Office,52,Not recorded,Unresolved,Low
+CR00893,24-01-2025,07:27,Karnataka,Mysuru,Fraud,Online Fraud,Online,56,male,Closed,High
+CR00266,09-08-2025,06:44,Maharashtra,Pune,Fraud,Financial Scam,Online,44,Female,Under Investigation  ,medium
+CR00343,05-08-2025,02:46,Andhra Pradesh,Vijayawada,Property Crime,Burglary,Road/Street,12,male,Pending Court,High
+CR00975,20-11-2025,19:03,Telangana,Hyderabad,Public Order  ,Public Disturbance,Online,51,male,Charges Filed,High
+CR00179,28-04-2025,14:08,Kerala,Kochi,Fraud,Online Fraud,Online,12,Not recorded,Closed,Low
+CR00906,14-04-2025,13:31,Maharashtra,Mumbai,Cybercrime,Account Hacking,Online,25,Female,under investigation,Critical
+CR01777,29-01-2025,00:59,Tamil Nadu,Chennai,Public Order,Drug Possession,Public Transport  ,28,Not recorded,Closed,medium
+CR01577,08-10-2025,11:21,Telangana,Hyderabad,Property Crime,Theft,Educational Institution,25,Other,Pending Court,medium
+CR00129,29-11-2025,07:45,Kerala,Kochi,Cyber Crime,Account Hacking,Online,49,male,,Low
+CR00371,23-11-2025,06:03,Kerala,Kochi,Cybercrime,Account Hacking,Online,63,male,Charges Filed,medium
+CR00697,15-09-2025,11:42,Kerala,Kochi,Cybercrime,Phishing,Online,21,Other,Pending Court,medium
+CR01472,21-02-2025,09:08,Karnataka,Bengaluru,Public Order,Trespassing,Educational Institution,44,Other,Closed,medium
+CR01482,10-07-2025,19:21,Telangana,Hyderabad,Fraud,Identity Fraud,Online,27,male,Under Investigation,medium
+CR01073,27-09-2025,04:44,Karnataka,Bengaluru,Property Crime,Vandalism,Office,32,male,Unresolved,High
+CR01653,07-02-2025,18:15,Delhi,New Delhi,Violent Crime,Homicide,Educational Institution,49,Not recorded,Under Investigation,High
+CR00384,15-09-2025,19:52,Tamil Nadu,Chennai,Fraud,Financial Scam,Online,12,Female,Closed,High
+CR01059,30-08-2025,07:28,Telangana,Hyderabad,Cybercrime,Online Harassment,Online,39,male,Pending Court,Low
+CR00643,09-02-2025,03:34,Maharashtra,Pune,Violent Crime,Robbery,Commercial Area,29,Female,Closed,Low
+CR00405,17-10-2025,17:58,Maharashtra,Mumbai,Violent Crime,Homicide,office,42,Not recorded,Under Investigation,Low
+CR00637,18-08-2025,19:10,Delhi,New Delhi,Violent Crime,Assault,Road/Street,17,Other,Closed,High
+CR00682,27-06-2025,23:40,Telangana,Hyderabad,Fraud,Online Fraud,Online,20,male,Closed,Low
+CR01760,25-05-2025,09:57,Tamil Nadu,Coimbatore,Public Order,Trespassing,Online,22,Other,Unresolved,High
+CR01136,15-03-2025,08:47,Telangana,Hyderabad,Cybercrime,Phishing,Online,35,Not recorded,Under Investigation,Low
+CR01553,25-05-2025,19:05,Tamil Nadu,Chennai,Violent Crime,Robbery,Office,22,Not recorded,Pending Court,Low
+CR01494,14-08-2025,11:59,Tamil Nadu,Chennai,Violent Crime,Homicide,Market,29,Female,Under Investigation,medium
+CR01012,06-11-2025,17:16,Kerala,Kochi,Property Crime,Vehicle Theft,Educational Institution,30,Other,Pending Court,Low
+CR00741,10-02-2025,00:32,Telangana,Hyderabad,Property Crime,Vehicle Theft,Educational Institution,31,Not recorded,Under Investigation,medium
+CR00835,23-02-2025,00:42,Delhi,New Delhi,Property Crime,Vandalism,Educational Institution,40,Other,Closed,Low
+CR00100,12-09-2025,03:13,Karnataka,Mysuru,violent crime,Homicide,Road/Street  ,31,Female,Pending Court,High
+CR01154,31-01-2025,15:14,Tamil Nadu,Chennai,Property Crime,Theft,Office,42,Other,Closed,Low
+CR00794,07-07-2025,14:30,Karnataka,Mysuru,Violent Crime,Robbery,Office,30,Female,Pending Court,Low
+CR00341,19-01-2025,12:01,Maharashtra,Pune,Fraud,Online Fraud,Online,12,Female,Unresolved,Low
+CR00545,20-04-2025,08:08,Maharashtra,Pune,Cybercrime,Phishing,Online,31,Not recorded,Under Investigation,High
+CR01523,21-02-2025,21:12,Tamil Nadu,Coimbatore,Violent Crime,Homicide,Residential Area,59,Not recorded,Closed,Low
+CR01430,08-03-2025,02:46,Delhi,New Delhi,Violent Crime,Assault,Residential Area,12,Other,Unresolved,Low
+CR00726,26-05-2025,04:17,Maharashtra,Mumbai,Violent Crime,Homicide,Road/Street,12,male,Unresolved,Low
+CR00115,06-08-2025,07:34,Telangana,Hyderabad,Public Order,Trespassing,Road/Street,33,Not recorded,Pending Court,medium
+CR00349,03-02-2025,23:54,Karnataka,Mysuru,Violent Crime,Assault,Residential Area,49,male,Closed,medium
+CR00215,16-01-2025,02:51,Kerala,Kochi,Public Order,Trespassing,Residential Area,55,Not recorded,Closed,Low
+CR01594,15-05-2025,07:37,Delhi,New Delhi,Violent Crime,Assault,Road/Street,34,Other,Pending Court,High
+CR00585,13-03-2025,23:57,Delhi,New Delhi,Public Order,Drug Possession,Road/Street,54,male,Pending Court,Low
+CR00656,15-01-2025,11:35,Delhi,New Delhi,Violent Crime,Homicide,Educational Institution,30,Female,Closed,High
+CR00924,30-08-2025,01:51,Telangana,Hyderabad,Property Crime,Vandalism,Road/Street,4,Female,Unresolved,Low
+CR01301,06-07-2025,20:41,Andhra Pradesh,Vijayawada,Cybercrime,Online Harassment,ONLINE,30,Not recorded,under investigation,medium
+CR01307,02-06-2025,10:52,Andhra Pradesh,Vijayawada,Fraud,Online Fraud,Online,21,Female,Pending Court,medium
+CR00731,20-01-2025,01:27,Andhra Pradesh,Vijayawada,Public Order,Drug Possession,Commercial Area,54,Not recorded,Charges Filed,Low
+CR00448,14-02-2025,08:21,Telangana,Hyderabad,Public Order,Public Disturbance,Public Transport,38,Other,Unresolved,Low
+CR00593,05-10-2025,01:21,Tamil Nadu,Chennai,Cybercrime,Account Hacking,Online,34,Female,Unresolved,medium
+CR00353,31-03-2025,08:47,Kerala,Kochi,Public Order,Trespassing,Market,50,Other,Under Investigation,Low
+CR00774,30-12-2025,08:13,Kerala,Kochi,Violent Crime,Assault,Road/Street,32,Other,Closed,medium
+CR01196,20-06-2025,10:03,Maharashtra,Mumbai,Public Order,Trespassing,Commercial Area,26,Female,Closed,medium
+CR01339,"Nov 28, 2025",00:03,Telangana,Hyderabad,Cybercrime,Phishing,Online,61,Female,Unresolved,Low
+CR01565,14-03-2025,13:00,Tamil Nadu,Coimbatore,Property Crime,Vandalism,Market,22,Not recorded,Closed,medium
+CR00889,28-10-2025,02:52,Karnataka,Bengaluru,Fraud,Financial Scam,Online,36,Not recorded,Pending Court,Low
+CR00155,07-08-2025,16:02,Kerala,Kochi,Fraud,ONLINE FRAUD,Online,18,Female,Closed,Critical
+CR01276,07-05-2025,10:31,Tamil Nadu,Coimbatore,Violent Crime,Homicide,Educational Institution,52,male,Closed,Critical
+CR01587,08-05-2025,16:30,Karnataka,BENGALURU,Property Crime,Vehicle Theft,Public Transport,12,Not recorded,Closed,medium
+CR00386,16-06-2025,16:27,kerala,Kochi,Property Crime,Vehicle Theft,Office,36,Other,Pending Court,High
+CR01347,25-02-2025,01:27,Kerala,Kochi,Fraud,Financial Scam,Online,42,Not recorded,Closed,Low
+CR00640,16-11-2025,01:10,Tamil Nadu,Chennai,Public Order,Trespassing,Commercial Area,53,Not recorded,Under Investigation,Low
+CR01638,06-10-2025,20:13,Karnataka,Bengaluru,Cybercrime,Online Harassment,Online,52,Not recorded,Closed,medium
+CR01423,02-05-2025,21:43,Delhi,New Delhi,Cybercrime,Online Harassment,Online,32,Not recorded,Pending Court,High
+CR01396,21-07-2025,03:24,Maharashtra,Mumbai,Cybercrime,Account Hacking,Online,27,Female,Closed,Critical
+CR00355,20-06-2025,05:34,Andhra Pradesh,Vijayawada,Cybercrime,Account Hacking,Online,45,male,Pending Court,medium
+CR00721,14-02-2025,08:22,Andhra Pradesh,Vijayawada,Fraud,Financial Scam,Online,16,Female,Closed,medium
+CR00379,08-06-2025,12:28,Karnataka,Mysuru,Fraud,Online Fraud,Online,41,male,Charges Filed,Low
+CR01002,11-03-2025,00:29,Delhi,New Delhi,Violent Crime,Robbery,Office,12,Female,Closed,Low
+CR01256,29-01-2025,14:07,Telangana,Hyderabad,Cybercrime,Phishing,Online,64,male,Pending Court,Critical
+CR01046,27-07-2025,21:25,Maharashtra,Mumbai,Property Crime,Burglary,Road/Street,25,Female,Charges Filed,medium
+CR00732,20-04-2025,01:31,Delhi,New Delhi,Fraud,Online Fraud,Online,39,Not recorded,Under Investigation,High
+CR00569,07-10-2025,15:29,Maharashtra,Pune,Violent Crime,Assault,Residential Area,22,Other,Unresolved,High
+CR00312,30-10-2025,04:53,Maharashtra,Mumbai,Fraud,Identity Fraud,Online,12,Other,Unresolved,medium
+CR01470,14-04-2025,01:39,Tamil Nadu,Chennai,Public Order,Public Disturbance,Commercial Area,23,Female,Pending Court,Critical
+CR00816,09-12-2025,10:57,Kerala,Kochi,Fraud,Identity Fraud,Online,58,Other,Closed,High
+CR01242,31-12-2025,18:27,Tamil Nadu,Chennai,Violent Crime,Homicide,Online,28,Other,Unresolved,Low
+CR00818,29-08-2025,03:01,Andhra Pradesh,Vijayawada,Public Order,Trespassing,Public Transport,61,Other,Unresolved,Critical
+CR01411,01-08-2025,02:25,Maharashtra,Pune,Violent Crime,Robbery,Public Transport,28,Not recorded,Pending Court,medium
+CR01161,16-01-2025,05:10,Karnataka,Bengaluru,Property Crime,Burglary,Market,16,Not recorded,Unresolved,medium
+CR00639,15-04-2025,11:18,Delhi,New Delhi,Public Order,Trespassing,Road/Street,27,male,Charges Filed,High
+CR00514,13-10-2025,02:00,Kerala,Kochi,Cybercrime,Online Harassment,Online,39,Female,Charges Filed,medium
+CR01323,15-08-2025,00:31,Tamil Nadu,Chennai,Fraud,Online Fraud,Online,29,Not recorded,Pending Court,Low
+CR01656,22-05-2025,22:38,Tamil Nadu,Coimbatore,Cybercrime,Account Hacking,Online,59,Not recorded,Unresolved,Low
+CR01793,22-04-2025,20:09,Andhra Pradesh,Vijayawada,Public Order,Trespassing,Office,42,Other,Unresolved,Low
+CR00837,20-05-2025,08:01,Maharashtra,Pune,Violent Crime,Homicide,Residential Area,47,male,Unresolved,High
+CR00885,09-08-2025,00:45,Karnataka,Bengaluru,Violent Crime,Assault,Public Transport,29,male,Pending Court,medium
+CR01797,12-09-2025,21:52,Tamil Nadu,Chennai,Property Crime,Burglary,Road/Street,44,Not recorded,Under Investigation,medium
+CR01573,29-03-2025,07:02,Telangana,Hyderabad,Fraud,Online Fraud,Online,15,Female,Closed,High
+CR00071,14-05-2025,13:34,Maharashtra,Mumbai,Violent Crime,Assault,Online,52,Not recorded,Under Investigation,Low
+CR01172,11-11-2025,11:46,Maharashtra,Pune,Violent Crime,Assault,Market,31,Not recorded,Unresolved,Critical
+CR01205,28-12-2025,05:54,Telangana,Hyderabad,Property Crime,Theft,Residential Area,40,Female,Unresolved,High
+CR00847,13-04-2025,21:28,Karnataka,bengaluru,Public Order,Public Disturbance,Market,37,Other,Under Investigation,Low
+CR01080,26-08-2025,10:55,Maharashtra,Pune,Fraud,Online Fraud,Online,51,Other,Unresolved,medium
+CR00320,21-06-2025,09:02,Karnataka,Bengaluru,Public Order,Trespassing,Residential Area,12,male,Unresolved,Low
+CR01298,18-04-2025,15:31,Maharashtra,Pune,Public Order,Public Disturbance,Educational Institution,39,Other,Unresolved,Low
+CR00991,30-07-2025,11:20,Delhi,New Delhi,Public Order,Trespassing,Residential Area,23,Female,Closed,Low
+CR00904,15-09-2025,20:58,Karnataka,Bengaluru,Violent Crime,Assault,Educational Institution,46,Female,Closed,Low
+CR00860,31-10-2025,21:53,Telangana,Hyderabad,Violent Crime,Robbery,Commercial Area,59,Other,Pending Court,medium
+CR01501,08-10-2025,14:42,Maharashtra,Pune,Public Order,Public Disturbance,Educational Institution,45,Female,Closed,medium
+CR00782,16-11-2025,02:59,Tamil Nadu,Coimbatore,Cybercrime,Phishing,Online  ,27,Not recorded,Charges Filed,medium
+CR01602,27-09-2025,06:32,Delhi,New Delhi,Property Crime,Theft,Commercial Area,36,male,Charges Filed,medium
+CR01456,15-05-2025,20:23,Andhra Pradesh,Vijayawada,Cybercrime,Account Hacking,Online,35,Female,Under Investigation,Low
+CR00549,13-09-2025,23:32,Tamil Nadu,Chennai,Cybercrime,Phishing,Online,65,male,Pending Court,medium
+CR01433,09-11-2025,10:43,Telangana,Hyderabad,Fraud,Financial Scam,Online,52,male,Unresolved,Low
+CR00132,19-08-2025,05:03,Tamil Nadu,Chennai,Public Order,Drug Possession,Market,31,Female,Unresolved,Low
+CR00547,15-01-2025,14:36,Telangana,Hyderabad,Public Order,Public Disturbance,Public Transport,53,male,Closed,Low
+CR00611,08-01-2025,09:09,Kerala,Kochi,Violent Crime,Homicide,Public Transport,25,male,Unresolved,Low
+CR00659,09-07-2025,14:01,Tamil Nadu,Chennai,Violent Crime,Homicide,Educational Institution,40,Other,Pending Court,medium
+CR01116,31-10-2025,10:44,Maharashtra,Pune,Fraud,Online Fraud,Online,50,Other,Pending Court,High
+CR00364,18-04-2025,08:13,Tamil Nadu,Chennai,Property Crime,Burglary,Public Transport,21,Female,Charges Filed,Low
+CR00303,03-11-2025,05:23,Delhi,New Delhi,Public Order,Public Disturbance,Online,38,Other,Charges Filed,High
+CR00891,16-12-2025,11:01,Tamil Nadu,Coimbatore,Property Crime,Theft,Educational Institution,41,male,Pending Court,medium
+CR00525,11-03-2025,04:23,Karnataka,Mysuru,Property Crime,Theft,Road/Street,25,Other,Unresolved,medium
+CR00382,23-09-2025,06:16,Karnataka,Bengaluru,  Violent Crime,Assault,Market,58,Not recorded,Charges Filed,Low
+CR01164,03-09-2025,16:58,Kerala,Kochi,CYBERCRIME,Online Harassment,Online,31,Female,Charges Filed,medium
+CR00574,16-10-2025,06:43,Karnataka,Mysuru,Fraud,Financial Scam,Online,12,Female,Pending Court,medium
+CR00260,16-02-2025,00:51,Kerala,Kochi,Property Crime,Burglary,Residential Area,38,Female,Unresolved,High
+CR00736,27-11-2025,00:44,Tamil Nadu,CHENNAI,Violent Crime,Homicide,Office,26,Not recorded,Under Investigation,Critical
+CR01416,11-08-2025,11:47,Tamil Nadu,Chennai,Fraud,Identity Fraud,Online,51,Not recorded,Under Investigation,medium
+CR00949,22-08-2025,10:02,Tamil Nadu,Chennai,Fraud,Online Fraud,Online,31,Other,Pending Court,High
+CR00424,07-07-2025,09:41,Karnataka,Bengaluru,Fraud,Financial Scam,Online,42,Not recorded,Pending Court,Low
+CR01498,10-01-2025,01:47,Kerala,Kochi,Violent Crime,Robbery,Commercial Area,25,male,Pending Court,Low
+CR00597,08-08-2025,00:37,Tamil Nadu,Chennai,Cybercrime,Phishing,Online,55,Other,Under Investigation,medium
+CR00742,01-06-2025,03:41,Tamil Nadu,Coimbatore,Fraud,Financial Scam,Online,50,Female,Charges Filed,Low
+CR00618,12-05-2025,16:10,Tamil Nadu,Coimbatore,Property Crime,Vandalism,Educational Institution,24,Female,Charges Filed,Low
+CR01267,21-01-2025,20:27,Tamil Nadu,Chennai,Public Order,Public Disturbance,Educational Institution,18,Not recorded,Unresolved,medium
+CR01348,26-03-2025,05:07,Delhi,New Delhi,Fraud,Financial Scam,Online,24,Female,Charges Filed,Low
+CR01784,06-05-2025,01:35,Delhi,NEW DELHI,Property Crime,Vehicle Theft,Educational Institution,22,Not recorded,Closed,High
+CR01563,01-08-2025,06:10,Maharashtra,Pune,Property Crime,Burglary,Office,43,male,Unresolved,High
+CR00911,23-09-2025,23:01,Kerala,Kochi,Fraud,Identity Fraud,Online,40,male,Pending Court,medium
+CR01748,22-07-2025,23:12,Telangana,Hyderabad,Public Order,Trespassing,Public Transport,16,male,Under Investigation,medium
+CR00822,11-05-2025,15:28,Tamil Nadu,Coimbatore,Fraud,Identity Fraud,Online,34,male,Under Investigation,Critical
+CR01572,06-10-2025,06:43,Tamil Nadu,Chennai,Public Order,Public Disturbance,Public Transport,43,Female,Under Investigation,High
+CR00146,09-09-2025,23:03,Maharashtra,Pune,Violent Crime,Assault,Market,38,Female,Unresolved,medium
+CR00224,21-05-2025,00:55,Andhra Pradesh,Vijayawada,Violent Crime,Robbery,Office,23,Other,Pending Court,High
+CR00577,22-05-2025,23:57,Andhra Pradesh,Vijayawada,Violent Crime,Assault,Road/Street,26,Female,Closed,medium
+CR01127,11-04-2025,01:44,Maharashtra,Mumbai,Cybercrime,Account Hacking,Online,49,male,Unresolved,High
+CR00486,14-12-2025,20:31,Tamil Nadu,Coimbatore,FRAUD,Identity Fraud,Online,51,male,Pending Court,medium
+CR00378,16-01-2025,14:12,Karnataka,Mysuru,Violent Crime,Assault,Residential Area,12,Not recorded,Under Investigation,medium
+CR01216,24-11-2025,20:52,Maharashtra,Mumbai,Fraud,Online Fraud,Online,35,Not recorded,Closed,medium
+CR00628,07-03-2025,18:33,Kerala,Kochi,Property Crime,Vehicle Theft,Public Transport,29,Not recorded,Unresolved,medium
+CR01066,28-04-2025,16:21,Telangana,Hyderabad,Fraud,Identity Fraud,Online,21,male,Charges Filed,medium
+CR00227,25-07-2025,05:27,Karnataka,Bengaluru,Public Order,Trespassing,Commercial Area,58,male,Unresolved,medium
+CR00943,05-04-2025,02:55,Kerala,Kochi,Fraud,Identity Fraud,Online,12,Female,Unresolved,High
+CR00929,17-02-2025,16:37,Andhra Pradesh,Vijayawada,Cybercrime,Online Harassment,Online,31,Female,Under Investigation,Low
+CR01428,02-12-2025,06:53,Telangana,Hyderabad,Cybercrime,Phishing,online,34,male,Pending Court,medium
+CR01448,26-07-2025,23:00,Maharashtra,Pune,Fraud,Online Fraud,Online,21,Not recorded,Unresolved,medium
+CR00259,31-03-2025,05:48,Karnataka,Bengaluru,Property Crime,Vandalism,Online,18,Female,Closed,High
+CR00899,27-08-2025,02:30,Karnataka,Mysuru,Violent Crime,Homicide  ,Office,58,male,Pending Court,Low
+CR01297,22-09-2025,02:35,Kerala,Kochi,Fraud,Identity Fraud,Online,33,male,Under Investigation,medium
+CR01199,13-09-2025,04:20,Maharashtra,Mumbai,Violent Crime,Homicide,Online,37,Not recorded,Under Investigation,High
+CR01203,03-05-2025,22:16,Maharashtra,mumbai,Cybercrime,Online Harassment,Online,22,male,Closed,Low
+CR01595,01-12-2025,12:08,Tamil Nadu,Chennai,Property Crime,Theft,Office,34,Other,Charges Filed,Low
+CR01211,14-05-2025,06:42,Delhi,New Delhi,Property Crime,Burglary,Residential Area,39,male,Pending Court,Low
+CR01300,25-07-2025,21:18,Telangana,Hyderabad,Property Crime,Burglary,Commercial Area,31,Other,Unresolved,Low
+CR01601,02-03-2025,11:10,Kerala,Kochi,Cybercrime,Phishing,Online,29,Female,Under Investigation,medium
+CR01092,25-12-2025,06:09,Maharashtra,Pune,Fraud,Financial Scam,Online,41,Female,Closed,medium
+CR00145,"Nov 11, 2025",02:56,Telangana,Hyderabad,Property Crime,Vandalism,Commercial Area,60,male,Pending Court,medium
+CR01160,24-02-2025,12:08,Kerala,Kochi,Fraud,Identity Fraud,Online,19,male,Closed,Low
+CR00394,09-09-2025,06:17,Tamil Nadu,Coimbatore,Cybercrime,Online Harassment,Online,30,male,Charges Filed,High
+CR01435,23-05-2025,19:11,Maharashtra,Pune,Fraud,Online Fraud,Online,24,,Unresolved,Critical
+CR01531,12-04-2025,11:27,Maharashtra,Pune,Public Order,Trespassing,Road/Street  ,17,Not recorded,Under Investigation,Low
+CR00777,21-03-2025,11:39,Karnataka,Bengaluru,Property Crime,Burglary,Online,45,Not recorded,Under Investigation,medium
+CR00684,30-11-2025,11:25,Karnataka,Mysuru,Cybercrime,Account Hacking,Online,22,Other,Pending Court,Low
+CR00550,16-05-2025,20:22,Maharashtra,Pune,Public Order,Trespassing,Office,51,Other,Pending Court,medium
+CR00683,21-04-2025,02:37,Kerala,Kochi,Violent Crime,Robbery,Office,42,male,Closed,Low
+CR01620,22-05-2025,16:36,Maharashtra,Pune,Property Crime,Burglary,  Residential Area,41,Not recorded,Pending Court,High
+CR00088,06-08-2025,07:54,Maharashtra,Mumbai,Public Order,Drug Possession,Online,34,Female,Unresolved,Critical
+CR00823,10-02-2025,10:14,Karnataka,Mysuru,Violent Crime,Assault,Public Transport,46,male,Pending Court,Low
+CR01687,08-12-2025,14:53,Tamil Nadu,Chennai,Public Order,Trespassing,Commercial Area,31,Not recorded,Closed,medium
+CR00828,31-07-2025,19:42,Tamil Nadu,Chennai,Property Crime,Vandalism,Commercial Area,44,Not recorded,Closed,High
+CR01006,28-11-2025,17:11,Andhra Pradesh,Vijayawada,Property Crime,Theft,Commercial Area,68,Other,Closed,medium
+CR00747,20-10-2025,07:46,Karnataka,Mysuru,Violent Crime,Assault,Residential Area,18,Other,Under Investigation,Low
+CR00270,29-03-2025,06:45,Maharashtra,Pune,Public Order,Public Disturbance,Public Transport,43,male,Closed,medium
+CR01026,09-08-2025,00:47,Maharashtra,Pune,Fraud,Identity Fraud,Online,42,Female,Under Investigation,Low
+CR00973,12-02-2025,03:22,Delhi,New Delhi,Fraud,Identity Fraud,Online,17,Not recorded,Unresolved,medium
+CR00528,04-06-2025,17:54,Telangana,Hyderabad,Violent Crime,Robbery,Online,29,male,Pending Court,High
+CR00425,14-02-2025,14:59,Telangana,Hyderabad,Property Crime,Theft,Residential Area,35,Not recorded,Under Investigation,Critical
+CR00520,20-03-2025,05:30,Karnataka,Bengaluru,Violent Crime,Robbery,Public Transport,19,Not recorded,Closed,Low
+CR01344,15-05-2025,11:30,Karnataka,Mysuru,Property Crime,Theft,Public Transport  ,42,male,Charges Filed,medium
+CR00498,21-04-2025,18:11,Kerala,Kochi,Property Crime,Burglary,Public Transport,24,Other,Under Investigation,Low
+CR00987,12-06-2025,18:09,Maharashtra,Pune,Fraud,Online Fraud,Online,50,Other,Charges Filed,medium
+CR01630,26-01-2025,20:33,Maharashtra,Pune,Fraud,Online Fraud,Online,43,Not recorded,Under Investigation,medium
+CR01364,25-11-2025,00:12,Kerala,Kochi,Cybercrime,Phishing,Online,15,male,Pending Court,Low
+CR00581,04-01-2025,03:27,Tamil Nadu,Chennai,Cybercrime,Online Harassment,Online,65,Other,Charges Filed,High
+CR00566,26-10-2025,04:17,Telangana,Hyderabad,Property Crime,Vandalism,Commercial Area,35,male,Charges Filed,medium
+CR01743,11-05-2025,10:57,Karnataka,Bengaluru,Property Crime,Theft,Market,29,Not recorded,Charges Filed,medium
+CR00436,18-08-2025,19:35,Andhra Pradesh,Vijayawada,Violent Crime,Robbery,Office,12,male,Pending Court,Low
+CR01697,10-06-2025,00:41,Kerala,Kochi,Violent Crime,Homicide,Road/Street,12,Not recorded,Under Investigation,Low
+CR01309,10-02-2025,08:32,Kerala,Kochi,Fraud,Online Fraud,Online,42,male,Pending Court,Low
+CR01096,09-07-2025,02:16,Delhi,New Delhi,Fraud,Identity Fraud,Online,28,,Under Investigation,Low
+CR01525,10-04-2025,15:17,Karnataka,Bengaluru,Violent Crime,Robbery,Online,28,Other,Unresolved,Low
+CR01313,21-12-2025,03:09,Tamil Nadu,Coimbatore,Violent Crime,Homicide,Office,51,Other,Charges Filed,Low
+CR00941,03-05-2025,06:21,Delhi,New Delhi  ,Public Order,Drug Possession,Market,47,Female,Pending Court,Low
+CR00607,12-06-2025,18:15,Tamil Nadu,Coimbatore,Public Order,Public Disturbance,Road/Street,44,Female,Pending Court,Low
+CR00016,07-09-2025,01:52,Tamil Nadu,Coimbatore,Fraud,Identity Fraud,Online,36,male,Charges Filed,Low
+CR00443,22-10-2025,14:19,Andhra Pradesh,Vijayawada,Public Order,Trespassing,  Online,44,Other,Closed,Low
+CR00417,29-08-2025,12:10,Delhi,New Delhi,Cybercrime,Phishing,Online,32,Not recorded,Charges Filed,medium
+CR00971,14-10-2025,10:23,Karnataka,Bengaluru,Violent Crime,Robbery,Educational Institution,75,Female,Pending Court,Low
+CR00783,13-07-2025,05:21,Delhi,New Delhi,Public Order,Drug Possession,Residential Area,44,male,Pending Court,medium
+CR00970,05-04-2025,08:34,Delhi,New Delhi,Violent Crime,Assault,Online,75,male,Pending Court,High
+CR01642,21-05-2025,10:59,Tamil Nadu,Chennai,Cybercrime,Online Harassment,Online,63,Other,Under Investigation,High
+CR00175,"Dec 05, 2025",04:29,Kerala,Kochi,Fraud,Financial Scam,Online,42,Female,Closed,High
+CR01134,07-11-2025,18:42,Tamil Nadu,Coimbatore,Fraud,Financial Scam,Online,54,Other,Charges Filed,medium
+CR01716,26-10-2025,03:12,Karnataka,Bengaluru,Violent Crime,Assault,Road/Street,42,Not recorded,Pending Court,High
+CR00141,15-10-2025,23:03,Maharashtra,Mumbai,Public Order,Public Disturbance,Office,48,Female,Pending Court,medium
+CR00271,11-10-2025,05:09,Tamil Nadu,Chennai,Violent Crime,Robbery,Office,57,male,Charges Filed,High
+CR00771,09-08-2025,20:50,Karnataka,Mysuru,Property Crime,Vandalism,Office,14,Not recorded,Unresolved,High
+CR00454,17-10-2025,15:13,Delhi,New Delhi,Fraud,Online Fraud,Online,18,Not recorded,Under Investigation,medium
+CR00912,18-02-2025,03:37,Maharashtra,Pune,Violent Crime,Robbery,Educational Institution,12,Female,Unresolved,medium
+CR01004,24-02-2025,13:13,Delhi,New Delhi,  Fraud,Online Fraud,Online,16,Female,Under Investigation,Low
+CR01471,12-04-2025,00:51,Karnataka,Bengaluru,Property Crime,Burglary,Residential Area,23,Other,Charges Filed,Low
+CR00851,02-11-2025,16:24,Tamil Nadu,Coimbatore,Cybercrime,Account Hacking,Online,14,Other,Under Investigation,medium
+CR00029,15-09-2025,12:34,Karnataka,Bengaluru,Fraud,Identity Fraud,Online,12,Not recorded,Charges Filed,Low
+CR00951,07-09-2025,18:40,Maharashtra,Pune,Violent Crime,Robbery,Residential Area,34,Female,Under Investigation,Low
+CR00010,21-03-2025,13:07,Andhra Pradesh,Vijayawada,Property Crime,Vandalism,Public Transport,36,Female,Unresolved,medium
+CR01336,24-01-2025,19:23,Tamil Nadu,Chennai,Public Order,Drug Possession,Public Transport,28,male,Under Investigation,High
+CR00015,22-05-2025,11:03,Karnataka,Bengaluru,Property Crime,Vehicle Theft,Commercial Area,42,Other,Unresolved,medium
+CR01713,08-04-2025,06:57,Delhi,New Delhi,Property Crime,Vehicle Theft,Commercial Area,44,Not recorded,Unresolved,Low
+CR00506,10-01-2025,15:09,Karnataka,Mysuru,Cybercrime,Online Harassment,Online,46,male,Unresolved,medium
+CR00291,18-12-2025,05:43,Kerala,Kochi,Public Order,Drug Possession,Public Transport,41,Not recorded,Closed,medium
+CR00285,31-12-2025,22:52,Kerala,Kochi,Property Crime,Burglary,Commercial Area,20,Not recorded,Charges Filed,Low
+CR01217,25-09-2025,12:06,Andhra Pradesh,Vijayawada,Cybercrime,Online Harassment,Online,20,Female,Unresolved,High
+CR00122,28-06-2025,03:31,Karnataka,Mysuru,Property Crime,Vandalism,Commercial Area,42,Not recorded,Under Investigation,Low
+CR00037,26-02-2025,03:02,Karnataka,Bengaluru,Violent Crime,Homicide,Online,53,Female,Charges Filed,Low
+CR00638,24-01-2025,14:33,Karnataka,Mysuru,Public Order,Trespassing,Residential Area,74,Female,Pending Court,High
+CR01477,27-04-2025,18:03,Tamil Nadu,Coimbatore,Fraud,Financial Scam,Online,18,Not recorded,Unresolved,Low
+CR01685,27-03-2025,01:47,Telangana,Hyderabad,Cybercrime,Phishing,Online,51,Not recorded,Unresolved,
+CR00070,18-06-2025,08:05,Karnataka,Bengaluru,Property Crime,Burglary,Commercial Area,32,Female,Unresolved,medium
+CR00530,17-12-2025,13:33,Telangana,Hyderabad,Cybercrime,Phishing,Online,41,Not recorded,Charges Filed,Low
+CR00679,22-02-2025,11:41,Tamil Nadu,Coimbatore,Violent Crime,Assault,Residential Area,52,Other,Charges Filed,medium
+CR00615,16-06-2025,13:00,Andhra Pradesh,Vijayawada,Cybercrime,Online Harassment,Online,60,male,Pending Court,Low
+CR01679,07-03-2025,22:31,Telangana,Hyderabad,Violent Crime,Homicide,Office,29,male,Closed,High
+CR01643,26-08-2025,10:30,Maharashtra,Mumbai,Property Crime,Vandalism,Public Transport,62,male,Pending Court,Low
+CR00471,09-06-2025,10:31,Kerala,Kochi,Property Crime,Vandalism,Market,43,Female,Under Investigation,Low
+CR00240,13-02-2025,00:12,Delhi,New Delhi,Public Order,Trespassing,Public Transport,34,male,Closed,medium
+CR00795,01-08-2025,18:28,Andhra Pradesh,Vijayawada,Cybercrime,Account Hacking,Online,12,Female,Pending Court,medium
+CR01586,17-11-2025,06:59,Tamil Nadu,Coimbatore,Public Order,Trespassing,Road/Street,32,Not recorded,Charges Filed,medium
+CR01312,20-09-2025,04:13,Karnataka,Mysuru,Fraud,Financial Scam,Online,67,Not recorded,Under Investigation,medium
+CR00055,13-06-2025,06:40,Tamil Nadu  ,Coimbatore,Cybercrime,Online Harassment,Online,47,Other,Under Investigation,medium
+CR01011,20-05-2025,07:56,Tamil Nadu,Chennai,Property Crime,Vandalism,Market,32,Other,Under Investigation,medium
+CR00865,28-08-2025,12:00,Andhra Pradesh,Vijayawada,Violent Crime,Assault,Residential Area,57,Female,Pending Court,High
+CR01063,24-06-2025,14:04,Karnataka  ,Bengaluru,Cybercrime,Phishing,Online,32,Other,CHARGES FILED,Low
+CR01560,24-01-2025,21:20,Karnataka,Mysuru,Fraud,Online Fraud,Online,36,male,Closed,medium
+CR01648,06-05-2025,10:34,Karnataka,Bengaluru,Violent Crime,Homicide,Online,31,Not recorded,Under Investigation,Low
+CR00334,26-04-2025,10:33,Andhra Pradesh,Vijayawada,Cybercrime,Online Harassment,Online,35,Female,Charges Filed,High
+CR01751,26-09-2025,13:43,Andhra Pradesh,Vijayawada,Violent Crime,Assault,Public Transport,12,Female,Unresolved,Low
+CR00027,18-11-2025,00:22,Karnataka,Mysuru,Cybercrime,Phishing,Online,40,Other,Unresolved,medium
+CR00807,04-12-2025,09:11,Delhi,New Delhi,Violent Crime,Robbery,Market,30,Female,Closed,Low
+CR00553,28-08-2025,14:24,DELHI,New Delhi,Cybercrime,Online Harassment,Online  ,12,Not recorded,Closed,Critical
+CR00197,04-05-2025,20:22,Tamil Nadu,Coimbatore,Property Crime,Vehicle Theft,Market,20,Other,Charges Filed,High
+CR01742,05-12-2025,09:34,Kerala,Kochi,Cybercrime,Account Hacking,Online,12,Female,Charges Filed,medium
+CR00073,30-10-2025,14:22,Karnataka,Mysuru,Cybercrime,Online Harassment,Online,46,Not recorded,Pending Court,Low
+CR00204,02-01-2025,03:18,Andhra Pradesh,Vijayawada,Property Crime,Theft,Office,33,Female,Unresolved,medium
+CR01350,18-01-2025,17:29,Karnataka,Bengaluru,Violent Crime,Homicide,Road/Street,38,Female,Unresolved,medium
+CR00890,13-08-2025,21:12,Karnataka,Mysuru,Fraud,Online Fraud,Online,32,Not recorded,Under Investigation,medium
+CR01405,06-09-2025,21:16,Karnataka,Bengaluru,Fraud,Financial Scam,Online,16,Female,Pending Court,Low
+CR00501,05-05-2025,22:17,Maharashtra,Pune,Property Crime,Theft,Road/Street,54,male,Charges Filed,Low
+CR00229,27-08-2025,05:18,Tamil Nadu,Chennai,Public Order,Public Disturbance,Commercial Area,64,Not recorded,Unresolved,
+CR00237,25-05-2025,06:09,Karnataka,Mysuru,Cybercrime,Phishing,Online,78,Not recorded,Closed,Low
+CR01069,14-06-2025,17:43,Kerala,Kochi,Fraud,Identity Fraud,Online,35,male,Unresolved,High
+CR01151,04-04-2025,03:28,Delhi,New Delhi,Cybercrime,Account Hacking,Online,51,Other,Under Investigation  ,Low
+CR01566,10-06-2025,18:03,Telangana,Hyderabad,Fraud,Identity Fraud,Online,38,Female,Pending Court,High
+CR00979,30-08-2025,12:05,Andhra Pradesh,Vijayawada,Public Order,Public Disturbance,Road/Street,30,Not recorded,Charges Filed,medium
+CR00887,06-04-2025,13:26,Delhi,New Delhi,Violent Crime,Assault,Market,30,Female,Pending Court,medium
+CR00318,30-06-2025,08:11,Kerala,Kochi,Cybercrime,Phishing,Online,55,Other,Under Investigation,medium
+CR01447,04-05-2025,18:47,Maharashtra,Mumbai,Violent Crime,Assault,Residential Area,46,Not recorded,Closed,medium
+CR00023,25-01-2025,01:05,Karnataka,Mysuru,Cybercrime,Account Hacking,  Online,12,Not recorded,Pending Court,High
+CR00094,09-02-2025,00:56,Andhra Pradesh,Vijayawada,Public Order,Trespassing,Residential Area,38,Female,Charges Filed,Low
+CR00954,07-02-2025,04:05,Tamil Nadu,Chennai,Property Crime,Burglary,Commercial Area,62,Other,Unresolved,High
+CR01282,14-03-2025,15:51,Karnataka,Mysuru,Cybercrime,Online Harassment,Online,43,Other,Pending Court,High
+CR01473,12-02-2025,01:24,Telangana,Hyderabad,Fraud,Online Fraud,Online  ,62,Other,Pending Court,medium
+CR00806,25-06-2025,10:43,Andhra Pradesh,Vijayawada,Public Order,Drug Possession,Online,62,Female,Closed,Low
+CR01129,03-01-2025,13:00,Andhra Pradesh,Vijayawada,Public Order,Trespassing,Educational Institution,51,Other,Pending Court,medium
+CR00181,05-10-2025,22:25,Tamil Nadu,Chennai,Cybercrime,Phishing,Online,48,Other,Pending Court,medium
+CR00219,02-07-2025,18:43,Andhra Pradesh,Vijayawada,Cybercrime,Account Hacking,Online,35,Not recorded,Closed,Low
+CR00326,19-12-2025,21:40,Tamil Nadu,Chennai,Fraud,Financial Scam,Online,14,Other,Closed,medium
+CR00442,12-07-2025,16:57,Karnataka,Bengaluru,Cybercrime,Account Hacking,Online,12,male,Charges Filed,Low
+CR00239,09-07-2025,19:34,Karnataka,Mysuru,Cybercrime,Online Harassment,Online,43,Not recorded,Closed,medium
+CR01057,29-10-2025,13:08,Telangana,Hyderabad,Violent Crime,Assault,Office,34,Other,Closed,medium
+CR01517,13-07-2025,05:34,Maharashtra,Mumbai,Violent Crime,Robbery,Market,19,Other,Unresolved,Low
+CR00191,02-02-2025,14:07,Kerala,Kochi,Cybercrime,Phishing,Online,12,Other,Pending Court,Low
+CR00420,14-10-2025,15:34,Kerala,Kochi,Violent Crime,Homicide,Educational Institution,20,Other,Pending Court,medium
+CR00797,27-06-2025,15:20,Maharashtra,Pune,Property Crime,Theft,Commercial Area,56,Female,Pending Court,medium
+CR01520,10-12-2025,22:45,Tamil Nadu,CHENNAI,Property Crime,Burglary,Office,57,Other,Under Investigation,medium
+CR00011,22-04-2025,11:04,Maharashtra,Mumbai,Property Crime,Vandalism,Online,36,Other,Pending Court,medium
+CR01674,13-06-2025,05:35,Telangana,Hyderabad,Property Crime,Burglary,Educational Institution,44,Not recorded,Closed,medium
+CR01723,10-01-2025,19:39,Kerala,Kochi,Fraud,Financial Scam,Online,47,Female,Unresolved,High
+CR01045,25-11-2025,02:30,Andhra Pradesh,Vijayawada,Fraud,Financial Scam,Online,26,,Charges Filed,medium
+CR01189,01-11-2025,16:02,Tamil Nadu,Chennai,Public Order,Drug Possession,Commercial Area,51,Female,Pending Court,Low
+CR01258,18-04-2025,20:57,Kerala,Kochi,Property Crime,Vandalism,Public Transport,70,Other,Closed,Low
+CR01252,17-07-2025,20:59,Tamil Nadu,Coimbatore,Fraud,Online Fraud,  Online,51,Not recorded,Unresolved,Low
+CR01061,17-05-2025,22:16,Maharashtra,Pune,Cybercrime,Phishing,Online,42,Other,Pending Court,High
+CR01490,25-09-2025,10:01,Karnataka,bengaluru,Property Crime,Burglary,Public Transport,44,Other,Charges Filed,Low
+CR01248,14-07-2025,00:28,Tamil Nadu,Chennai,Public Order,Trespassing,Educational Institution,68,Not recorded,Closed,medium
+CR01104,16-05-2025,00:55,Karnataka,Mysuru,Property Crime,Vandalism,Office,44,Not recorded,Closed,Low
+CR00855,27-04-2025,20:45,Kerala,Kochi,Cybercrime,Phishing,Online,33,male,Pending Court,High
+CR00392,03-04-2025,09:01,delhi,New Delhi,Cybercrime,Online Harassment,Online,12,Other,Under Investigation,High
+CR01434,12-10-2025,05:54,Karnataka,Bengaluru,Cybercrime,Account Hacking,Online,41,male,Charges Filed,medium
+CR00952,11-10-2025,09:09,Karnataka,Bengaluru,Public Order  ,Trespassing,Online,25,male,Charges Filed,High
+CR00419,14-07-2025,16:54,Karnataka,Bengaluru,Property Crime,Burglary,Market,35,Other,Pending Court,Low
+CR00695,25-05-2025,13:50,Tamil Nadu,Chennai,Cybercrime,Online Harassment,Online,49,male,Pending Court,Low
+CR00106,17-08-2025,15:33,Telangana,Hyderabad,Public Order,Public Disturbance,Online,52,Other,Closed,medium
+CR00062,11-04-2025,10:44,Maharashtra,Pune,Property Crime,Theft,Online,36,Not recorded,Closed,High
+CR00035,"Sep 25, 2025",18:23,Andhra Pradesh,Vijayawada,Cybercrime,Online Harassment,Online,19,Female,Unresolved,High
+CR01208,23-03-2025,12:14,Karnataka,Mysuru,Cybercrime,Account Hacking,Online,12,male,Closed,medium
+CR01259,02-09-2025,16:39,Kerala,Kochi,Cybercrime,Phishing,Online,48,Female,Closed,Low
+CR01363,13-11-2025,17:21,Maharashtra,Mumbai,Property Crime,Vandalism,Market,47,male,Pending Court,Low
+CR00728,17-02-2025,02:28,Karnataka,Mysuru,Cybercrime,Online Harassment,Online,58,male,Unresolved,High
+CR00369,26-09-2025,12:40,Maharashtra,Pune,Public Order,Drug Possession,Commercial Area,48,Female,Unresolved,High
+CR00796,31-10-2025,04:44,Karnataka,Bengaluru,Public Order,Public Disturbance,Road/Street,46,male,Under Investigation,medium
+CR00910,03-07-2025,17:31,Karnataka,Mysuru,Cybercrime,Phishing,Online,48,male,Closed,High
+CR00880,01-02-2025,10:43,Andhra Pradesh,Vijayawada,Public Order,Trespassing,market,22,male,Closed,Low
+CR01195,18-05-2025,11:09,Karnataka,Bengaluru,Cybercrime,Online Harassment,  Online,76,Other,Under Investigation,Low
+CR00323,29-09-2025,11:07,Tamil Nadu,Coimbatore,FRAUD,Online Fraud,Online,12,Female,Unresolved,Low
+CR01354,09-03-2025,02:02,Tamil Nadu,Coimbatore,VIOLENT CRIME,Assault,Residential Area,30,Female,Under Investigation,High
+CR00789,04-08-2025,05:46,Tamil Nadu,Coimbatore,Cybercrime,Phishing,Online,34,Female,Closed,Low
+CR01311,24-04-2025,02:03,Delhi,New Delhi,Property Crime,Theft,Road/Street,39,Female,Charges Filed,High
+CR00531,31-03-2025,01:07,Maharashtra,Pune,Fraud,Online Fraud,Online,31,Female,Under Investigation,Low
+CR01424,13-04-2025,21:26,Tamil Nadu,Coimbatore,Cybercrime,Phishing,Online,29,Not recorded,Closed,medium
+CR00629,11-07-2025,01:44,Karnataka,Bengaluru,Violent Crime,Assault,Commercial Area,53,Female,Unresolved,Low
+CR00947,31-08-2025,02:37,Maharashtra,Pune,Violent Crime,Assault,Road/Street,60,Not recorded,Under Investigation,Low
+CR00024,24-01-2025,23:43,Karnataka,Mysuru,Property Crime,Theft  ,Residential Area,50,Female,Under Investigation,Critical
+CR00968,05-03-2025,11:57,Delhi,New Delhi,Cybercrime,Phishing,Online,16,Not recorded,Pending Court,medium
+CR01190,11-07-2025,16:35,Maharashtra,Mumbai,Property Crime,Vandalism,Road/Street  ,37,male,Closed,Low
+CR01453,31-10-2025,00:34,Kerala,Kochi,Public Order,Drug Possession,Market,12,Not recorded,Closed,Low
+CR00642,23-02-2025,08:43,Tamil Nadu,Coimbatore,Public Order,Trespassing,Educational Institution,12,Other,Closed,Critical
+CR00244,16-04-2025,07:22,Karnataka,Mysuru,Cybercrime,Account Hacking,Online,61,Other,Closed,Low
+CR00339,17-12-2025,20:39,Kerala,Kochi,Public Order,Public Disturbance,Office,48,Not recorded,Pending Court,medium
+CR00997,12-02-2025,17:04,Telangana,Hyderabad,Public Order,Drug Possession,Educational Institution,36,Female,Charges Filed,medium
+CR01773,13-09-2025,17:47,Andhra Pradesh,Vijayawada,Violent Crime  ,Homicide,Public Transport,13,Not recorded,Charges Filed,medium
+CR01082,29-12-2025,21:46,Delhi,New Delhi,Fraud,Financial Scam,Online,67,Not recorded,Charges Filed,Low
+CR00689,26-12-2025,20:54,Kerala,Kochi,Fraud,Financial Scam,Online,12,male,Charges Filed,Low
+CR01619,04-11-2025,13:27,Karnataka,Mysuru,Property Crime,Theft,Educational Institution,15,Not recorded,Charges Filed,High
+CR00560,21-07-2025,20:08,Tamil Nadu,Coimbatore,Property Crime,Theft,Online,48,Other,Closed,High
+CR01001,04-08-2025,06:14,Andhra Pradesh,Vijayawada,Violent Crime,Robbery,Public Transport,20,Not recorded,Charges Filed,medium
+CR00418,06-06-2025,08:46,Tamil Nadu,Coimbatore,Public Order,Drug Possession,Commercial Area,24,Not recorded,Under Investigation,Low
+CR00599,21-08-2025,05:50,Maharashtra,Mumbai,Public Order,Public Disturbance,Market,40,Not recorded,Unresolved,Low
+CR00526,19-10-2025,12:38,Delhi,  New Delhi,Property Crime,Vehicle Theft,Road/Street,36,Other,Closed,medium
+CR01147,27-02-2025,17:05,Tamil Nadu,Coimbatore,Violent Crime,Robbery,Online,40,Not recorded,Pending Court,Low
+CR01362,06-04-2025,09:16,Telangana,Hyderabad,Cybercrime,Phishing,Online,47,male,Closed,Low
+CR01135,03-10-2025,03:55,Delhi,New Delhi,property crime,Vandalism,Road/Street,20,Other,Unresolved,medium
+CR00128,"Aug 08, 2025",12:21,Tamil Nadu,Coimbatore,Violent Crime,Homicide,Office,30,male,Unresolved,medium
+CR01668,"Nov 20, 2025",21:16,Karnataka,Bengaluru,Public Order,Public Disturbance,Road/Street,44,Not recorded,Closed,Low
+CR01230,17-07-2025,02:25,Kerala,Kochi,Fraud,Identity Fraud,Online,42,male,,Low
+CR00654,14-03-2025,07:29,Kerala,Kochi,Fraud,Identity Fraud,Online,17,male,Under Investigation,Low
+CR01050,12-02-2025,01:28,Andhra Pradesh,Vijayawada,Property Crime,Vandalism,Residential Area,33,Other,Pending Court,Low
+CR00776,12-09-2025,06:55,Andhra Pradesh,Vijayawada,Public Order,Drug Possession,Office,52,Female,Under Investigation,Low
+CR01640,30-09-2025,18:22,Tamil Nadu,Chennai,Public Order,Trespassing,Public Transport,42,Other,Pending Court,medium
+CR00957,17-11-2025,09:45,Karnataka,Bengaluru,Cybercrime,Online Harassment,Online,46,Female,Under Investigation,medium
+CR00310,31-12-2025,01:21,Maharashtra,Mumbai,Fraud,Online Fraud,Online,34,Other,Pending Court,medium
+CR00843,08-10-2025,04:46,Maharashtra,Pune,Fraud,Financial Scam,Online,15,Not recorded,Unresolved,medium
+CR01318,05-11-2025,16:46,Karnataka,Mysuru,Property Crime,Theft,Residential Area,41,Not recorded,Under Investigation,Low
+CR01729,09-01-2025,10:40,Telangana,Hyderabad,Cybercrime,Online Harassment,Online,15,Female,Charges Filed,medium
+CR01647,17-03-2025,08:26,Tamil Nadu,Chennai,Cybercrime,Phishing,Online,16,Other,Under Investigation,Low
+CR00832,10-04-2025,09:29,Karnataka,Bengaluru,Violent Crime,Robbery,Residential Area,44,Other,Pending Court,Critical
+CR00262,04-04-2025,16:41,Karnataka,Mysuru,Violent Crime,Robbery,Market,52,Female,Charges Filed,medium
+CR01163,20-11-2025,20:04,Maharashtra,Pune,Violent Crime,Robbery,Office,38,Not recorded,Pending Court,High
+CR01564,17-11-2025,19:24,Maharashtra,Mumbai,Violent Crime,Homicide,Road/Street,36,Female,Unresolved,medium
+CR00582,27-08-2025,17:35,Delhi,New Delhi,Public Order,Trespassing,Market,25,Other,Charges Filed,Critical
+CR00234,27-11-2025,17:48,tamil nadu,Coimbatore,Property Crime,Vandalism,Office,52,male,Under Investigation,Critical
+CR01054,22-06-2025,02:57,Kerala,Kochi,Cybercrime,Online Harassment,Online,77,Not recorded,Charges Filed,High
+CR01027,25-11-2025,14:56,Maharashtra,Pune,Violent Crime,Robbery,Commercial Area,41,Not recorded,Pending Court,medium
+CR01319,08-10-2025,13:15,Karnataka,Mysuru,Cybercrime,Account Hacking,Online,51,Other,Unresolved,medium
+CR00190,28-10-2025,00:22,Kerala,Kochi,Violent Crime,Homicide,Residential Area,54,Other,Closed,Low
+CR00883,02-03-2025,19:06,Kerala,Kochi,Property Crime,Burglary,Public Transport,13,male,Closed,Low
+CR01366,23-09-2025,22:02,Andhra Pradesh,Vijayawada,Violent Crime,Assault,Online,60,Other,Unresolved,medium
+CR01763,10-10-2025,07:04,Telangana,Hyderabad,Cybercrime,Account Hacking,Online,49,Female,Unresolved,medium
+CR00415,25-09-2025,04:09,Telangana,Hyderabad,Fraud,Identity Fraud,Online,30,male,Pending Court,Low
+CR00956,20-05-2025,18:40,Tamil Nadu,Chennai,Public Order,Trespassing,Online,42,male,Under Investigation,medium
+CR01245,29-12-2025,05:33,Tamil Nadu,Chennai,Fraud,Financial Scam,Online,32,,Closed,Low
+CR00445,04-11-2025,14:33,Telangana,Hyderabad,Violent Crime,Robbery,Commercial Area,17,Not recorded,Closed,medium
+CR00120,23-01-2025,17:22,Delhi,New Delhi,Cybercrime,Online Harassment,Online,33,Other,Pending Court,Low
+CR01593,02-12-2025,04:53,Telangana,Hyderabad,Property Crime,Vandalism,Educational Institution,27,,Charges Filed,High
+CR01263,18-05-2025,21:16,Maharashtra,Pune,Fraud,Identity Fraud,Online,70,Other,Charges Filed,High
+CR00208,15-05-2025,16:28,Andhra Pradesh,Vijayawada,Fraud,Financial Scam,Online,46,Not recorded,Pending Court,Low
+CR00327,26-10-2025,22:14,Maharashtra,Pune,Violent Crime,Robbery,Market,25,Female,Under Investigation,Low
+CR00178,"May 26, 2025",13:28,Andhra Pradesh,Vijayawada,Fraud,Financial Scam,Online,67,Not recorded,Closed,High
+CR00474,22-03-2025,17:02,Kerala,Kochi,Public Order,Trespassing,Office,12,Other,Under Investigation,Low
+CR01469,15-05-2025,15:34,Karnataka,Mysuru,Public Order,Drug Possession,Office,46,Female,Pending Court,Low
+CR01395,27-01-2025,13:30,Telangana,Hyderabad,Violent Crime,Homicide,Online,64,Female,Closed,medium
+CR00857,27-10-2025,22:47,Andhra Pradesh,Vijayawada,Cybercrime,Phishing,Online,33,male,Closed,Medium
+CR01413,30-08-2025,09:06,Telangana,Hyderabad,Fraud,Identity Fraud,Online,27,Not recorded,Charges Filed,Critical
+CR00598,"Apr 01, 2025",22:18,Maharashtra,Pune,Fraud,Identity Fraud,Online,69,male,Unresolved,Low
+CR00163,08-03-2025,03:44,Karnataka,Bengaluru,Property Crime,Burglary,Office,24,Other,Closed,Low
+CR00808,14-04-2025,05:04,Telangana,Hyderabad,Violent Crime,Assault,Online,31,male,Closed,High
+CR01614,05-10-2025,13:01,Karnataka,Bengaluru,Property Crime,Burglary,Online,32,Other,Charges Filed,Low
+CR00397,21-04-2025,21:28,Maharashtra,Mumbai,Fraud,Financial Scam,Online,43,male,Unresolved,medium
+CR00764,15-04-2025,09:42,Delhi,New Delhi,Fraud,Online Fraud,Online  ,34,Other,Under Investigation,medium
+CR00427,27-04-2025,21:56,Delhi,New Delhi,Public Order,Drug Possession,Residential Area,46,Female,Charges Filed,medium
+CR00391,10-12-2025,11:37,Karnataka,Bengaluru,Violent Crime,Assault,Educational Institution,12,Not recorded,Unresolved,medium
+CR01177,11-03-2025,16:37,Kerala,Kochi,Property Crime,Burglary,Public Transport,47,Female,Charges Filed,Low
+CR00168,16-10-2025,14:41,Delhi,New Delhi,Cybercrime,Account Hacking,Online,40,Female,Charges Filed,Low
+CR00333,05-06-2025,10:10,Karnataka,Bengaluru,Public Order,Trespassing,Public Transport,41,Other,Under Investigation,medium
+CR00671,13-08-2025,21:27,Karnataka,Mysuru,Property Crime,Theft,Public Transport,56,Not recorded,Under Investigation,Low
+CR00605,25-12-2025,16:08,Karnataka,Bengaluru,Fraud,Identity Fraud,Online,49,male,Pending Court,Low
+CR00768,25-04-2025,20:31,Kerala,Kochi,Public Order,Drug Possession,Educational Institution,26,male,Under Investigation,High
+CR00693,23-02-2025,15:03,Kerala,Kochi,Violent Crime,Homicide,Road/Street  ,36,male,Under Investigation,medium
+CR00942,24-01-2025,10:59,Tamil Nadu,Coimbatore,Property Crime,Vandalism,Road/Street,29,Not recorded,Closed,High
+CR00691,06-03-2025,12:00,Delhi,New Delhi,Property Crime,Vandalism,Online,26,male,Under Investigation,High
+CR00109,09-08-2025,07:40,Maharashtra,Mumbai,Fraud,Financial Scam,Online,22,Female,Charges Filed,Low
+CR01320,18-07-2025,11:07,karnataka,Mysuru,Fraud,Financial Scam,Online,30,Not recorded,Charges Filed,medium
+CR01145,26-02-2025,19:16,Delhi,New Delhi,Violent Crime,Robbery,Market,27,Not recorded,Pending Court,High
+CR01316,06-03-2025,13:42,maharashtra,Pune,Violent Crime,Assault,Residential Area,22,Not recorded,Closed,Low
+CR01652,30-09-2025,01:47,Tamil Nadu,Chennai,Public Order,Public Disturbance,Road/Street,37,male,Unresolved,Low
+CR00221,"Jun 05, 2025",19:00,Tamil Nadu,Chennai,Public Order,Drug Possession,Commercial Area,47,Female,Closed,Low
+CR01615,03-03-2025,11:07,Karnataka,Mysuru,Fraud,Financial Scam,Online,37,Other,Unresolved,medium
+CR01606,07-09-2025,22:24,Delhi,New Delhi,Public Order,Trespassing,Road/Street,36,Other,Pending Court,Critical
+CR00515,24-12-2025,06:50,Maharashtra,Pune,Property Crime,Burglary,Road/Street,12,Female,Under Investigation,medium
+CR01302,14-04-2025,20:50,Karnataka,Bengaluru,Public Order,Trespassing,Residential Area,41,Not recorded,Unresolved,medium
+CR00456,04-02-2025,00:37,Tamil Nadu,Chennai,Fraud,Financial Scam,Online,12,Not recorded,Pending Court,Low
+CR00362,28-01-2025,22:12,Maharashtra,Pune,Cybercrime,Phishing,Online,33,Other,Under Investigation,medium
+CR00993,21-03-2025,22:24,Maharashtra,Mumbai,Cybercrime,Account Hacking,Online,21,male,Under Investigation,Low
+CR01341,11-04-2025,22:12,Delhi,New Delhi,Property Crime,Burglary,Commercial Area,55,Female,Charges Filed,Low
+CR00139,21-08-2025,22:17,Tamil Nadu,Coimbatore,Violent Crime,Assault,Online,28,male,Pending Court,Low
+CR00625,25-08-2025,20:31,Maharashtra,Mumbai,Cybercrime,Online Harassment,Online,26,Female,Charges Filed,medium
+CR00668,30-06-2025,14:29,Maharashtra,Mumbai,Fraud,Online Fraud,Online,18,Female,Under Investigation,medium
+CR01701,30-01-2025,04:27,Karnataka,Bengaluru,Cybercrime,Phishing,Online,52,Female,Charges Filed,medium
+CR00206,07-10-2025,02:34,Maharashtra,Pune,Cybercrime,Online Harassment,Online,45,Not recorded,Charges Filed,Low
+CR00749,14-04-2025,10:57,Maharashtra,Mumbai,Fraud,Identity Fraud,Online,12,Not recorded,Closed,medium
+CR01710,28-06-2025,18:04,Andhra Pradesh,Vijayawada,Public Order,Trespassing,Educational Institution,35,Other,Closed,Low
+CR00888,25-09-2025,21:34,Tamil Nadu,Coimbatore,Cybercrime,Phishing,Online,12,Female,Pending Court,medium
+CR00451,05-08-2025,21:28,Telangana,Hyderabad,Violent Crime,Homicide,Office,31,Female,Under Investigation,Low
+CR01787,14-06-2025,12:12,Tamil Nadu,Coimbatore,Cybercrime,Account Hacking,Online,58,Female,Charges Filed,Low
+CR01358,16-11-2025,17:36,Karnataka,Bengaluru,Fraud,Identity Fraud,Online,39,Female,Pending Court,Low
+CR01551,07-06-2025,19:56,Tamil Nadu,Chennai,Violent Crime,Robbery,Market,34,Not recorded,Under Investigation,Low
+CR00180,01-02-2025,11:36,Telangana,Hyderabad,Public Order,Trespassing,Online,26,Not recorded,,High
+CR01673,02-07-2025,18:19,Karnataka,Bengaluru,Property Crime,Vandalism,Public Transport,34,Female,Closed,Low
+CR01162,07-10-2025,18:08,Tamil Nadu,Coimbatore,Fraud,Identity Fraud,Online,12,Not recorded,Under Investigation,High
+CR01425,13-08-2025,09:34,Maharashtra,Mumbai,Cybercrime,Phishing,Online,66,Not recorded,Unresolved,Low
+CR00955,11-09-2025,15:03,Maharashtra,Mumbai,Cybercrime,Online Harassment,Online,27,Not recorded,Unresolved,medium
+CR01436,07-04-2025,12:28,Andhra Pradesh,Vijayawada,Cybercrime,Phishing,Online,34,male,Unresolved,CRITICAL
+CR00078,13-05-2025,02:17,Tamil Nadu,Coimbatore,Public Order,Public Disturbance,Public Transport,41,Not recorded,Pending Court,High
+CR00325,20-04-2025,00:06,Tamil Nadu,Chennai,Cybercrime,Phishing,Online,17,Not recorded,Unresolved,High
+CR00540,20-10-2025,18:22,Karnataka,Bengaluru,Fraud,Financial Scam,  Online,17,Other,Charges Filed,Low
+CR01507,25-08-2025,22:49,Maharashtra,Mumbai,Property Crime,Burglary,Market,19,male,Closed,Low
+CR00634,23-10-2025,20:34,Delhi,New Delhi,Cybercrime,Account Hacking,Online,54,Other,Charges Filed,High
+CR01150,30-06-2025,11:31,Tamil Nadu,Coimbatore,Property Crime,Burglary,Educational Institution,28,male,Unresolved,medium
+CR00963,10-08-2025,17:31,Maharashtra,Pune,Property Crime,Vandalism,Educational Institution,35,Other,Charges Filed,High
+CR00344,17-11-2025,02:33,Tamil Nadu,Coimbatore,Public Order,Drug Possession,Office,14,Not recorded,Under Investigation,medium
+CR01466,01-09-2025,07:39,Tamil Nadu,Coimbatore,Property Crime,Burglary,Commercial Area,45,male,Closed,Low
+CR00401,21-09-2025,21:30,Kerala,Kochi,Cybercrime,Online Harassment,Online,59,Not recorded,Charges Filed,medium
+CR00149,04-09-2025,07:46,Maharashtra,Pune,Fraud,Online Fraud,Online,18,male,Under Investigation,medium
+CR00478,05-09-2025,04:17,Andhra Pradesh,Vijayawada,Cybercrime,Phishing,Online,31,male,Under Investigation,medium
+CR00962,21-10-2025,17:10,Tamil Nadu,Coimbatore,Public Order,Trespassing,Office,56,Other,Charges Filed,Low
+CR01519,15-02-2025,18:29,Karnataka,Mysuru,Fraud,Identity Fraud,Online,13,Not recorded,Pending Court,Low
+CR01555,07-06-2025,16:10,Maharashtra,Pune,Cybercrime,Online Harassment,Online,55,Other,Under Investigation,Low
+CR00464,28-04-2025,14:14,Kerala,Kochi,Property Crime,Theft,Market,41,Female,Pending Court,medium
+CR01385,20-04-2025,12:18,Karnataka,Mysuru,Property Crime,Vandalism,Road/Street,31,Other,Under Investigation,medium
+CR01765,10-03-2025,12:44,Karnataka,Bengaluru,VIOLENT CRIME,Robbery,Office,35,Female,Closed,High
+CR01770,22-03-2025,04:28,Karnataka,Mysuru,Cybercrime,Account Hacking,Online,12,Not recorded,Under Investigation  ,medium
+CR01275,22-01-2025,05:31,Andhra Pradesh,Vijayawada,Property Crime,Theft,Road/Street,47,Female,Pending Court,Critical
+CR00523,27-02-2025,23:44,Karnataka,Mysuru,Cybercrime,Phishing,Online,28,Female,Pending Court,medium
+CR00927,17-01-2025,12:31,Karnataka,Mysuru,Property Crime,Theft,Road/Street,61,Other,Under Investigation,medium
+CR00989,10-02-2025,20:10,Kerala,Kochi,Cybercrime,Phishing,Online,31,Not recorded,Under Investigation,Low
+CR00717,01-12-2025,18:51,Maharashtra,Mumbai,Violent Crime,Robbery,Educational Institution,47,,Pending Court,Low
+CR01036,05-12-2025,13:00,Kerala,kochi,Violent Crime,Robbery,Public Transport,40,Female,Pending Court,medium
+CR00072,11-05-2025,11:53,Delhi,New Delhi,Cybercrime  ,Phishing,Online,38,Not recorded,Under Investigation,Low
+CR01682,22-11-2025,16:26,Karnataka,Mysuru,Cybercrime,Phishing,Online,56,Female,Unresolved,High
+CR00286,04-07-2025,04:48,Kerala,Kochi,Violent Crime,Homicide,Educational Institution,17,Not recorded,Under Investigation,medium
+CR01257,01-07-2025,00:50,Maharashtra,Mumbai,Violent Crime,Assault,Commercial Area,41,Not recorded,Pending Court,Low
+CR00187,09-01-2025,13:07,Kerala,Kochi,Cybercrime,Phishing,Online,54,male,Under Investigation,medium
+CR00871,09-09-2025,18:49,Telangana,,Cybercrime,Phishing,Online,29,Female,Under Investigation,medium
+CR00940,20-10-2025,19:19,Karnataka,Bengaluru,Cybercrime,Online Harassment,Online,20,male,Unresolved,Low
+CR01489,12-05-2025,15:03,Maharashtra,Pune,Fraud,Online Fraud,Online,43,Other,Unresolved,Low
+CR00054,15-04-2025,18:46,Karnataka,Mysuru,Cybercrime,Online Harassment,Online,12,male,Pending Court,Low
+CR00300,27-02-2025,12:19,Telangana,Hyderabad,Property Crime,Burglary,Market,47,Not recorded,Pending Court,medium
+CR00961,14-03-2025,23:20,Kerala,Kochi,Property Crime,Vandalism,Residential Area,25,Other,Closed,medium
+CR01281,18-06-2025,11:07,Maharashtra,Mumbai,Fraud,Identity Fraud,Online,33,Other,Unresolved,medium
+CR00467,26-01-2025,07:35,Tamil Nadu,Coimbatore,Violent Crime,Homicide,Road/Street,27,Other,Charges Filed,Low
+CR00944,05-12-2025,00:40,Maharashtra,Mumbai,Violent Crime,Assault,Road/Street,57,male,Closed,medium
+CR01546,05-08-2025,19:51,Karnataka,Mysuru,Fraud,Financial Scam,Online,15,Female,Under Investigation,medium
+CR00714,10-03-2025,09:07,Karnataka,Bengaluru,Fraud,Online Fraud,Online,12,Other,Under Investigation,Low
+CR01567,30-07-2025,18:03,Tamil Nadu,Chennai,Cybercrime,Phishing,Online,72,Female,Unresolved,medium
+CR01227,17-06-2025,20:42,Delhi,New Delhi,Property Crime,Theft,Educational Institution,12,Other,Under Investigation,medium
+CR01604,02-07-2025,15:38,Andhra Pradesh,Vijayawada,Public Order,Public Disturbance,Commercial Area,61,Not recorded,Under Investigation,High
+CR01146,11-11-2025,14:23,Karnataka,Bengaluru,Fraud,Online Fraud,Online,43,Other,Unresolved,medium
+CR00345,22-10-2025,16:27,Maharashtra,Pune,Violent Crime,Homicide,Road/Street,12,Not recorded,Closed,High
+CR01686,05-04-2025,01:50,Tamil Nadu,Chennai,Cybercrime,Phishing,Online,18,Not recorded,Pending Court,Low
+CR00116,21-06-2025,15:05,Karnataka,Bengaluru,Violent Crime,Homicide,Online,41,Other,Charges Filed,Low
+CR01223,05-12-2025,12:03,Kerala,Kochi  ,Fraud,Financial Scam,Online,23,Not recorded,Pending Court,High
+CR01538,03-01-2025,16:36,Maharashtra,Pune,Property Crime,Burglary,Online,60,Female,Pending Court,medium
+CR00743,06-11-2025,02:34,Kerala,kochi,Fraud,Financial Scam,Online,40,Not recorded,Unresolved,Low
+CR01229,13-10-2025,04:42,Delhi,New Delhi,Property Crime,Vehicle Theft,Office,39,male,Pending Court,High
+CR01479,28-05-2025,06:01,Karnataka,Mysuru,Fraud,Identity Fraud,Online,62,male,Charges Filed,Low
+CR00870,15-07-2025,18:49,Maharashtra,Pune,Violent Crime,Homicide,Residential Area,38,Not recorded,Closed,Low
+CR00269,05-06-2025,12:22,Kerala,Kochi,Public Order,Drug Possession,Road/Street,37,Female,Pending Court,High
+CR01536,14-10-2025,17:14,Karnataka,Bengaluru,Fraud,Identity Fraud,Online,45,,Charges Filed,Low
+CR01717,"Nov 22, 2025",18:48,Andhra Pradesh,Vijayawada,Property Crime,Vehicle Theft,Office,35,Other,Unresolved,Low
+CR01325,21-05-2025,01:10,Tamil Nadu,Coimbatore,Fraud,Online Fraud,Online,34,Other,Charges Filed,medium
+CR01575,27-03-2025,21:00,Karnataka,Mysuru,Public Order,Public Disturbance,Educational Institution,29,Female,  Unresolved,Low
+CR01683,03-05-2025,09:40,Maharashtra,Mumbai,Property Crime,Theft,Market,64,Female,Unresolved,medium
+CR00784,17-07-2025,04:40,Karnataka,Bengaluru,Property Crime,Vandalism,Public Transport,13,Not recorded,Pending Court,medium
+CR00407,06-12-2025,16:11,Maharashtra,Mumbai,Violent Crime,Homicide,Commercial Area,47,Not recorded,Closed,Low
+CR00276,11-10-2025,13:47,Andhra Pradesh,Vijayawada,Fraud,Financial Scam,Online,54,Not recorded,Unresolved,Low
+CR01113,27-08-2025,16:39,Karnataka,Bengaluru,Cybercrime,Phishing,Online,44,Not recorded,Under Investigation,High
+CR01214,18-03-2025,23:49,Telangana,Hyderabad,Violent Crime,Robbery,Commercial Area,29,Not recorded,Pending Court,medium
+CR00039,13-09-2025,23:11,Tamil Nadu,Chennai,Property Crime,Vandalism,Commercial Area,76,Not recorded,Closed,medium
+CR00361,23-06-2025,22:20,Andhra Pradesh,Vijayawada,Property Crime,Burglary,Online,37,male,Closed,Critical
+CR00521,21-02-2025,19:04,Maharashtra,Mumbai,Fraud,Online Fraud,Online,15,Female,Charges Filed,medium
+CR01669,18-01-2025,06:56,Delhi,New Delhi,Property Crime,  Vandalism,Public Transport,45,Female,Charges Filed,medium
+CR00548,22-02-2025,12:45,Kerala,Kochi,Property Crime  ,Vehicle Theft,Office,12,Female,Pending Court,medium
+CR00430,24-08-2025,05:59,Telangana,Hyderabad,Fraud,Financial Scam,Online,44,Not recorded,Closed,Low
+CR00376,29-03-2025,02:47,Maharashtra,Pune,Cybercrime,Account Hacking,Online,37,male,Closed,Critical
+CR01794,28-01-2025,08:35,Telangana,Hyderabad,Violent Crime,Robbery,Online,29,Not recorded,Closed,Low
+CR00086,25-02-2025,12:15,Maharashtra,Pune,Public Order,Public Disturbance,Public Transport,28,Not recorded,Unresolved,medium
+CR01152,27-11-2025,02:39,Andhra Pradesh,Vijayawada,Public Order,Drug Possession,Public Transport,50,Other,Unresolved,medium
+CR00236,29-01-2025,17:57,Karnataka,Mysuru,Fraud,Financial Scam,Online,14,Female,Unresolved,Low
+CR01752,31-10-2025,12:23,Andhra Pradesh  ,Vijayawada,Property Crime,Theft,Residential Area,29,male,Under Investigation,medium
+CR00716,15-12-2025,10:04,Karnataka,Bengaluru,Property Crime,Vehicle Theft,Commercial Area,14,Not recorded,Closed,Critical
+CR01394,22-05-2025,13:21,Maharashtra,Mumbai,Cybercrime,Online Harassment,Online,22,Not recorded,Under Investigation,Low
+CR00915,02-08-2025,17:04,Karnataka,Mysuru,Cybercrime,Online Harassment,Online,34,Female,Closed,Low
+CR00821,14-06-2025,01:31,Tamil Nadu,Chennai,Property Crime,Vandalism,Office,29,Not recorded,Closed,medium
+CR01460,29-11-2025,18:49,Maharashtra,Pune,Property Crime,Vehicle Theft,Online,12,Other,Unresolved,medium
+CR00718,06-07-2025,05:29,Maharashtra,Mumbai,Public Order,Public Disturbance,Commercial Area,29,Other,Under Investigation,medium
+CR00780,18-03-2025,16:10,Kerala,KOCHI,Public Order,Public Disturbance,Commercial Area,38,Not recorded,Under Investigation,medium
+CR01209,21-09-2025,19:24,Kerala,Kochi,Public Order,TRESPASSING,Office,70,male,Pending Court,Critical
+CR00095,28-09-2025,09:54,Andhra Pradesh,Vijayawada,Violent Crime,homicide,Educational Institution,53,Not recorded,Under Investigation,Low
+CR01398,26-08-2025,18:49,Karnataka,Bengaluru,Cyber Crime,Online Harassment,Online,45,Other,Unresolved,Low
+CR00811,12-02-2025,11:20,Karnataka,Bengaluru,Violent Crime,Robbery,Online,40,Female,Charges Filed,Low
+CR00008,19-08-2025,23:37,Kerala,Kochi,Property Crime,Vehicle Theft,Residential Area,33,Not recorded,Closed,High
+CR01130,05-05-2025,03:12,Maharashtra,Mumbai,Fraud,Financial Scam,Online,19,male,Closed,Low
+CR00710,01-03-2025,23:47,Karnataka,Mysuru,Public Order,Drug Possession,Road/Street,33,Female,Pending Court,High
+CR00243,25-09-2025,22:09,Maharashtra,Mumbai,Property Crime,Vehicle Theft,Office,28,Other,Closed,Low
+CR01074,11-09-2025,17:33,Maharashtra,Pune,Cybercrime,Online Harassment,Online,27,Other,Under Investigation,High
+CR00841,17-12-2025,14:18,Andhra Pradesh,Vijayawada,Public Order,Trespassing,Office,42,male,Unresolved,High
+CR00265,09-11-2025,02:34,Tamil Nadu,Chennai,Fraud,Identity Fraud,Online,32,Other,Pending Court,medium
+CR01343,01-11-2025,05:59,Karnataka,Bengaluru,Violent Crime,Robbery,Residential Area,25,,Unresolved,High
+CR00939,28-06-2025,04:36,Karnataka,Mysuru,Cybercrime,Online Harassment,Online,39,Not recorded,Unresolved,Low
+CR01738,30-11-2025,22:01,Karnataka,Bengaluru,Fraud,Identity Fraud,Online,60,Other,Charges Filed,High
+CR00908,17-01-2025,09:25,Tamil Nadu,Chennai,Cybercrime,Account Hacking,Online,45,Other,Charges Filed,Low
+CR00969,27-02-2025,11:52,Telangana,Hyderabad,Public Order,Drug Possession,Educational Institution,34,Female,Closed,medium
+CR01718,15-04-2025,03:05,Maharashtra,Mumbai,Violent Crime,Robbery,Road/Street,37,Not recorded,Charges Filed,Low
+CR00277,03-10-2025,02:49,Andhra Pradesh,Vijayawada,Cybercrime,Account Hacking,Online,31,,Unresolved,Critical
+CR00517,22-04-2025,10:04,Karnataka,Bengaluru,Fraud,Identity Fraud,Online,32,Not recorded,Unresolved,Low
+CR01293,23-05-2025,15:39,Tamil Nadu,Coimbatore,Violent Crime,Homicide,Commercial Area,52,Not recorded,Charges Filed,medium
+CR01270,02-10-2025,17:03,Karnataka,Bengaluru,Property Crime,Burglary,Commercial Area,28,Female,Charges Filed,medium
+CR01782,23-09-2025,02:15,Andhra Pradesh,Vijayawada,Property Crime,Vehicle Theft,Residential Area,38,Female,Unresolved,medium
+CR01533,17-06-2025,19:36,Delhi,New Delhi,Property Crime,Vandalism,Educational Institution,38,Not recorded,Charges Filed,Low
+CR00669,01-08-2025,18:50,Karnataka,Bengaluru,Public Order,Drug Possession,Online,32,Female,Closed,Low
+CR00065,24-03-2025,13:15,Karnataka,Bengaluru,Violent Crime,Robbery,Educational Institution,13,Other,Closed,Low
+CR00279,16-08-2025,04:55,Tamil Nadu,Chennai,Violent Crime,Robbery,Road/Street,26,Other,Pending Court,High
+CR01070,10-06-2025,22:04,Telangana,Hyderabad,Cybercrime,Phishing,Online,44,Female,Closed,High
+CR01443,03-08-2025,00:34,Delhi,New Delhi,Fraud,Identity Fraud,ONLINE,62,Other,Pending Court,Critical
+CR00487,26-04-2025,18:17,Maharashtra,Pune,Violent Crime,Robbery,Online,57,Not recorded,Closed,High
+CR00232,29-05-2025,14:37,Kerala,Kochi,Fraud,Online Fraud,Online,37,male,under investigation,medium
+CR01554,21-11-2025,06:08,Tamil Nadu,Chennai,Violent Crime,Robbery,Road/Street,12,Other,Charges Filed,High
+CR01335,15-10-2025,21:58,Maharashtra,Mumbai,Property Crime,Vehicle Theft,Online,53,Female,Under Investigation,Low
+CR01067,27-01-2025,23:19,Kerala,Kochi,Cybercrime,Online Harassment,Online,47,male,Closed,medium
+CR00938,09-08-2025,17:26,Maharashtra,Mumbai,Cybercrime,Phishing,Online,41,Not recorded,Unresolved,medium
+CR00870,15-07-2025,18:49,Maharashtra,Pune,Violent Crime,Homicide,Residential Area,38,Not recorded,Closed,Low
+CR00719,20-08-2025,07:00,Andhra Pradesh,Vijayawada,Violent Crime,Homicide,Online,12,Not recorded,Charges Filed,High
+CR01173,30-03-2025,22:39,Telangana,Hyderabad,Violent Crime,Robbery,Office,28,Other,Unresolved,High
+CR00999,13-02-2025,04:20,Telangana,Hyderabad,Violent Crime,Assault,Online,44,Not recorded,Closed,medium
+CR00711,05-11-2025,16:40,Karnataka,Bengaluru,Violent Crime,Assault,Commercial Area,50,Female,charges filed,medium
+CR01464,14-08-2025,06:30,Andhra Pradesh,Vijayawada,Fraud,Financial Scam,Online,17,Not recorded,Under Investigation,Low
+CR01367,10-02-2025,14:02,Maharashtra,Mumbai,Property Crime,Vandalism,Road/Street,32,Female,Closed,medium
+CR00151,11-04-2025,16:38,Karnataka,Mysuru,Public Order,Drug Possession,Road/Street,20,Female,Pending Court,Low
+CR00586,21-09-2025,12:33,Andhra Pradesh,Vijayawada,Property Crime,Vehicle Theft,Educational Institution,12,male,Under Investigation,Low
+CR01632,14-09-2025,19:00,Maharashtra,Pune,Fraud,Financial Scam,Online,64,Not recorded,Under Investigation,Low
+CR00399,"Jan 27, 2025",10:08,Delhi,New Delhi,Cybercrime,Online Harassment,Online,56,male,Unresolved,medium
+CR01294,04-01-2025,22:39,Delhi,New Delhi,Public Order,Public Disturbance,Residential Area,23,Not recorded,Closed,High
+CR00934,27-01-2025,09:38,Kerala,Kochi,Violent Crime,Robbery,Road/Street,33,Not recorded,Unresolved,medium
+CR00294,26-08-2025,02:19,Telangana,Hyderabad,Fraud,Identity Fraud,Online,63,Not recorded,Closed,High
+CR00978,04-06-2025,03:23,Andhra Pradesh,Vijayawada,Violent Crime,Robbery,Educational Institution,35,Other,Pending Court,Critical
+CR00773,06-09-2025,11:34,Andhra Pradesh,Vijayawada,Cybercrime,Phishing,Online,38,Other,Under Investigation,Low
+CR01355,16-01-2025,06:50,Karnataka,Bengaluru,Public Order,Drug Possession,Educational Institution,50,Not recorded,,Low
+CR00398,31-07-2025,07:15,Andhra Pradesh,Vijayawada,fraud,Online Fraud,Online,34,Other,Under Investigation,High
+CR00836,13-01-2025,07:36,Andhra Pradesh,Vijayawada,Public Order,Drug Possession,Public Transport,58,Female,Pending Court,Low
+CR01634,18-02-2025,18:10,Maharashtra,Mumbai,Public Order,Public Disturbance,Office,35,Female,Unresolved,Low
+CR01735,12-03-2025,18:36,Delhi,New Delhi,  Property Crime,Vandalism,Educational Institution,57,male,Unresolved,Low
+CR01342,01-07-2025,08:20,Tamil Nadu,Chennai,Fraud,Financial Scam,Online,24,Other,Pending Court,High
+CR01381,21-06-2025,02:53,Maharashtra,Mumbai,Public Order,Trespassing,  Commercial Area,26,Other,Closed,Low
+CR00358,30-03-2025,20:48,Tamil Nadu,Chennai,Property Crime,Vehicle Theft,Residential Area,12,Other,Charges Filed,medium
+CR01658,10-02-2025,09:30,Kerala,Kochi,Public Order,Drug Possession,Road/Street,44,Other,Under Investigation,medium
+CR00853,19-07-2025,05:48,Tamil Nadu,Coimbatore,Fraud,Online Fraud,Online,40,Female,Pending Court,medium
+CR01255,25-07-2025,15:18,Kerala,Kochi,Cybercrime,Account Hacking,Online,41,male,Pending Court,Low
+CR00616,06-03-2025,04:23,Karnataka,Mysuru,Fraud,Online Fraud,Online,35,Not recorded,Charges Filed,Low
+CR00936,01-11-2025,21:03,ANDHRA PRADESH,Vijayawada,Fraud,Identity Fraud,Online,49,Not recorded,Pending Court,Low
+CR00863,20-01-2025,18:32,Kerala,Kochi,Cybercrime,Online Harassment,Online,42,Not recorded,Closed,medium
+CR00125,07-04-2025,21:11,Karnataka,Bengaluru,Property Crime,Theft,Online,32,Female,Unresolved,High
+CR01042,06-05-2025,21:52,Delhi,New Delhi,Cybercrime,Online Harassment,Online,27,Other,Closed,High
+CR00350,07-09-2025,06:31,  Kerala,Kochi,Cybercrime,Account Hacking,Online,48,male,Charges Filed,medium
+CR00315,17-06-2025,15:30,Delhi,New Delhi,Property Crime,Vandalism,Online,56,Other,Closed,Low
+CR01369,08-09-2025,02:10,Maharashtra,Pune,Property Crime,Burglary,Educational Institution,41,Not recorded,Unresolved,medium
+CR01155,27-10-2025,09:34,Karnataka,Bengaluru,Public Order,Drug Possession,Online,12,Female,Pending Court,Critical
+CR01702,15-09-2025,16:35,Delhi,New Delhi,Property Crime,Theft,Office,37,Other,Closed,High
+CR01758,17-11-2025,18:01,Kerala,Kochi,Fraud,Identity Fraud,Online,24,Not recorded,Pending Court,Critical
+CR00476,05-08-2025,20:34,Maharashtra,Pune,Public Order,Drug Possession,Public Transport,12,male,Under Investigation,Low
+CR01016,05-09-2025,06:46,Tamil Nadu,Chennai,Cybercrime,Account Hacking,Online,58,,Under Investigation,Low
+CR00283,13-11-2025,19:03,Kerala,Kochi,Fraud,Financial Scam,  Online,34,Not recorded,Pending Court,Low
+CR01273,06-02-2025,01:47,Maharashtra,Mumbai,Fraud,Financial Scam,Online,21,male,Under Investigation,Critical
+CR00201,09-08-2025,06:55,Delhi,New Delhi,Public Order,Trespassing,office,24,male,Pending Court,Low
+CR01166,02-04-2025,02:28,Kerala,Kochi,Violent Crime,Assault,Educational Institution,20,male,Closed,Low
+CR01025,19-02-2025,14:57,Telangana,Hyderabad,Property Crime,Vehicle Theft,Online,39,Not recorded,Unresolved,High
+CR00537,15-06-2025,01:02,karnataka,Mysuru,Public Order,Trespassing,Office,34,Other,Unresolved,High
+CR00958,27-01-2025,06:06,Telangana,Hyderabad,Public Order,Drug Possession,Online,17,Female,Charges Filed,medium
+CR01132,26-07-2025,03:56,Tamil Nadu,Chennai,Property Crime,Theft,Market,43,male,Charges Filed,medium
+CR00488,25-03-2025,11:39,Andhra Pradesh,Vijayawada,Public Order,Drug Possession,Educational Institution,27,Other,Pending Court,Low
+CR01261,10-03-2025,05:25,Karnataka,Bengaluru,Violent Crime,Assault,Market,21,Female,Under Investigation,medium
+CR00490,02-04-2025,21:28,Telangana,Hyderabad,Public Order,Drug Possession,Online,38,Other,Unresolved,High
+CR00884,08-05-2025,03:27,Maharashtra,MUMBAI,Public Order,Public Disturbance,Online,18,Other,Pending Court,Low
+CR00238,31-12-2025,12:58,Karnataka,Bengaluru,Property Crime,Theft,Market,28,Female,Closed,medium
+CR01249,03-11-2025,15:02,Tamil Nadu,Chennai,Cybercrime,Phishing,Online,34,Not recorded,Unresolved,medium
+CR00565,20-09-2025,23:58,Maharashtra,Pune,CYBERCRIME,Online Harassment,Online,25,Female,closed,medium
+CR00287,05-01-2025,10:00,Tamil Nadu,Chennai,Fraud,Online Fraud,Online,13,male,  Closed,Low
+CR00595,12-12-2025,21:59,Telangana,Hyderabad,Cybercrime,Account Hacking,Online,41,Female,,High
+CR00814,15-01-2025,23:08,Andhra Pradesh,Vijayawada,Fraud,Financial Scam,Online,12,Not recorded,Under Investigation,medium
+CR01775,20-05-2025,23:41,Tamil Nadu,Coimbatore,Violent Crime,Robbery,Office,50,male,Under Investigation,medium
+CR00799,25-04-2025,16:34,Telangana,Hyderabad,Violent Crime,Robbery,Residential Area,33,Not recorded,Charges Filed,High
+CR00720,15-12-2025,11:22,Maharashtra,Pune,Public Order,Public Disturbance,Educational Institution,13,male,Pending Court,High
+CR00632,02-05-2025,07:04,Andhra Pradesh,Vijayawada,Cybercrime,Account Hacking,Online,31,Female,Unresolved,High
+CR01088,19-08-2025,22:16,Karnataka,Bengaluru,Public Order,Public Disturbance,Road/Street,64,male,Charges Filed,High
+CR01731,01-07-2025,09:52,Tamil Nadu,Chennai,Cybercrime,Online Harassment,Online,47,Female,Under Investigation,High
+CR00437,29-07-2025,21:25,Kerala,Kochi,Fraud,Financial Scam,Online,36,Not recorded,Under Investigation,medium
+CR00875,26-06-2025,06:58,Karnataka,Mysuru,Cybercrime,Account Hacking,Online,41,Not recorded,Under Investigation,medium
+CR00869,06-07-2025,13:11,Andhra Pradesh,Vijayawada,Property Crime,Theft,Public Transport,47,male,Charges Filed,Low
+CR00921,24-09-2025,20:42,ANDHRA PRADESH,Vijayawada  ,Fraud,Identity Fraud,Online,40,Not recorded,Unresolved,Low
+CR00706,09-06-2025,16:00,Telangana,Hyderabad,Violent Crime,Assault,Educational Institution,15,Not recorded,Closed,Low
+CR01700,07-10-2025,05:48,Maharashtra,Mumbai,Violent Crime,Robbery,Office,27,Not recorded,Closed,Low
+CR01322,02-09-2025,18:50,Maharashtra,Pune,Property Crime,Burglary,Office,43,Female,Unresolved,Critical
+CR01764,22-07-2025,21:01,Karnataka,Bengaluru,Cybercrime,Phishing,Online,15,Other,Under Investigation,Low
+CR01260,10-04-2025,19:47,Karnataka,Bengaluru,Public Order,Trespassing,Educational Institution,27,Not recorded,Under Investigation,Critical
+CR01239,22-02-2025,22:19,Maharashtra,Pune,Violent Crime,Robbery,Market,25,Female,Pending Court,Critical
+CR01215,24-10-2025,05:37,Maharashtra,Mumbai,Violent Crime,Assault,Online,32,Not recorded,Under Investigation,medium
+CR01169,11-06-2025,17:45,Karnataka,Bengaluru,Public Order,Public Disturbance,Online,36,Not recorded,Pending Court,Critical
+CR00245,22-03-2025,15:28,  Tamil Nadu,Coimbatore,Property Crime,Burglary,Residential Area  ,37,Other,Unresolved,High
+CR01007,18-02-2025,04:03,Andhra Pradesh,Vijayawada,Public Order,Trespassing,Public Transport,23,Other,Charges Filed,medium
+CR01576,08-01-2025,13:22,Tamil Nadu,Chennai,Violent Crime,Assault,Public Transport,41,Not recorded,Under Investigation,High
+CR00140,12-01-2025,14:00,Karnataka,Mysuru,Cybercrime,Phishing,Online,43,Female,Under Investigation,Low
+CR00779,02-06-2025,03:03,Tamil Nadu,Chennai,Property Crime,Vandalism,Residential Area,39,Not recorded,Unresolved,High
+CR01753,15-07-2025,23:15,Maharashtra,Pune,Cybercrime,Online Harassment,Online,45,male,Under Investigation,medium
+CR01624,23-09-2025,10:32,Maharashtra,Mumbai,Public Order,Drug Possession,Market,15,Not recorded,Unresolved,medium
+CR00093,11-01-2025,01:28,Telangana,Hyderabad,Cybercrime,Phishing,Online,57,Other,Under Investigation,Critical
+CR00964,25-07-2025,20:50,Maharashtra,Pune,violent crime,  Robbery,Residential Area,30,Not recorded,Closed,medium
+CR01475,12-11-2025,01:20,Karnataka,Mysuru,Public Order,Trespassing,Public Transport,23,Female,Closed,medium
+CR01408,17-12-2025,09:54,Kerala,Kochi,Public Order,Drug Possession,Educational Institution,20,Female,closed,Low
+CR01329,22-09-2025,06:50,Andhra Pradesh,Vijayawada,Property Crime,Burglary,Public Transport,41,Female,Under Investigation,High
+CR00622,20-11-2025,06:34,Karnataka,Bengaluru,Public Order,Drug Possession,Residential Area,37,Not recorded,Charges Filed,Critical
+CR00746,17-04-2025,12:58,Andhra Pradesh,Vijayawada,Violent Crime,Homicide,Office,47,Not recorded,Under Investigation,medium
+CR00465,02-02-2025,08:16,Andhra Pradesh,Vijayawada,Violent Crime,Assault,Road/Street,37,male,Under Investigation,medium
+CR01372,01-10-2025,18:34,Telangana,Hyderabad,Fraud,Online Fraud,Online,30,Other,Unresolved,medium
+CR01569,26-08-2025,09:19,Kerala,Kochi,Fraud,Identity Fraud,Online,22,Other,Pending Court,medium
+CR00189,11-06-2025,16:11,Karnataka,Mysuru,Violent Crime,Robbery,Road/Street,14,Other,Closed,Critical
+CR00972,15-02-2025,21:53,Karnataka,Bengaluru,Public Order,Drug Possession,Office,28,Not recorded,Charges Filed,High
+CR01557,28-08-2025,18:38,Maharashtra,Pune,Cybercrime,Phishing,Online,58,Not recorded,Pending Court,High
+CR00535,27-10-2025,22:35,Tamil Nadu,Chennai,Property Crime,Vandalism,Public Transport,55,Not recorded,Pending Court,High
+CR00983,24-12-2025,01:29,Telangana,Hyderabad,Fraud,Online Fraud,Online,56,Other,Closed,Low
+CR01515,13-11-2025,08:47,Andhra Pradesh,Vijayawada,Fraud,Online Fraud,Online,50,Not recorded,Unresolved,Low
+CR01747,30-12-2025,18:09,Andhra Pradesh,Vijayawada,Fraud,Identity Fraud,Online,68,Other,Charges Filed,medium
+CR00655,28-02-2025,09:27,Telangana,Hyderabad,Fraud,Financial Scam,Online,56,male,Charges Filed,Low
+CR01170,10-01-2025,02:40,Maharashtra,Mumbai,Property Crime,Burglary,Office,38,Other,Under Investigation,medium
+CR01333,08-08-2025,23:01,Maharashtra,Mumbai,Cybercrime,Account Hacking,Online,29,male,Closed,Low
+CR00449,03-02-2025,20:24,Karnataka,Mysuru,Cybercrime,Online Harassment,Online,51,Other,Pending Court,medium
+CR01570,09-06-2025,07:21,Delhi,  New Delhi,Violent Crime,Homicide,Commercial Area,34,male,Under Investigation,High
+CR00862,31-05-2025,15:10,Delhi,New Delhi,Cybercrime,Account Hacking,Online,75,male,Charges Filed,medium
+CR00268,11-05-2025,15:18,Andhra Pradesh,Vijayawada,Cybercrime,Account Hacking,Online,64,Not recorded,Closed,High
+CR00147,19-05-2025,20:34,Tamil Nadu,Chennai,Fraud,Financial Scam,Online,19,Female,Closed,Low
+CR01017,02-01-2025,12:12,Karnataka,Bengaluru,Public Order,Public Disturbance,Road/Street,29,Not recorded,Unresolved,medium
+CR01142,03-12-2025,02:13,Andhra Pradesh,Vijayawada,Public Order,Drug Possession,Commercial Area,30,Other,Under Investigation,Low
+CR01545,03-04-2025,04:47,Karnataka,Mysuru,Public Order,Trespassing,Educational Institution,50,Not recorded,Unresolved,Low
+CR01548,12-03-2025,10:12,Maharashtra,Pune,Violent Crime,Robbery,Market,35,male,Unresolved,Low
+CR01661,13-12-2025,10:11,Tamil Nadu,Coimbatore,Cybercrime,Phishing,Online,36,Other,Unresolved,medium
+CR00302,01-04-2025,10:49,Maharashtra,Mumbai,Property Crime,Vehicle Theft,Online,53,Not recorded,Under Investigation,Critical
+CR01200,15-06-2025,05:38,Delhi,New Delhi,Property Crime,Theft,Residential Area,50,Not recorded,Under Investigation,medium
+CR00735,15-05-2025,02:33,Telangana,Hyderabad,Fraud,Financial Scam,Online,64,Female,Unresolved,High
+CR00645,30-09-2025,02:24,Tamil Nadu,Chennai,Violent Crime,Homicide,Commercial Area,19,male,Unresolved,Low
+CR00613,15-01-2025,01:25,Maharashtra,Mumbai,Fraud,Identity Fraud,Online,38,Not recorded,Under Investigation,High
+CR00110,10-07-2025,12:36,Tamil Nadu,Chennai,Public Order,Public Disturbance,Public Transport,24,Other,Unresolved,Low
+CR00426,28-05-2025,14:06,kerala,Kochi,Public Order,Public Disturbance,Market,38,Other,Unresolved,medium
+CR00829,06-01-2025,09:34,Maharashtra,Pune,Cybercrime,Online Harassment,Online,36,Female,Unresolved,High
+CR00866,27-02-2025,16:20,Maharashtra,Mumbai,Fraud,Online Fraud,Online,58,Female,Pending Court,Low
+CR00332,26-06-2025,14:33,Kerala,Kochi,Violent Crime,Robbery,Residential Area,15,Female,Pending Court,Low
+CR00825,01-06-2025,23:30,Karnataka,Mysuru,Property Crime,Burglary,Residential Area,52,Female,Closed,medium
+CR00762,20-09-2025,10:41,Andhra Pradesh,Vijayawada,Property Crime,Vehicle Theft,Educational Institution,90,Not recorded,Pending Court,Critical
+CR01235,11-04-2025,06:59,Maharashtra,Mumbai,Public Order,Trespassing,Commercial Area,61,Other,Unresolved,High
+CR00767,29-03-2025,08:17,Karnataka,Bengaluru,Violent Crime,ROBBERY,Online,46,Female,Charges Filed,High
+CR01128,06-10-2025,22:08,Tamil Nadu,Coimbatore,Cybercrime,Account Hacking,Online,27,Female,Closed,Low
+CR00852,26-05-2025,04:33,Tamil Nadu,Chennai,Cybercrime,Phishing,Online,39,male,Unresolved,Low
+CR01528,03-06-2025,23:39,Karnataka,Mysuru,Property Crime,Theft,Road/Street,57,Other,Pending Court,Low
+CR01153,06-10-2025,06:16,Karnataka,Bengaluru,Cybercrime,Online Harassment,Online,20,Not recorded,Closed,High
+CR01198,27-04-2025,10:58,Tamil Nadu,Chennai,Violent Crime,Homicide,Residential Area,21,male,Unresolved,medium
+CR01780,13-02-2025,12:23,Telangana,Hyderabad,Violent Crime,Homicide,Office,24,male,Closed,Low
+CR00250,04-01-2025,23:25,Karnataka,Mysuru,Cybercrime,Online Harassment,Online,39,Other,Charges Filed,Low
+CR00126,15-03-2025,01:12,Maharashtra,Pune,Property Crime,Vehicle Theft,Office,45,Not recorded,Closed,medium
+CR01440,05-12-2025,15:38,Tamil Nadu,Coimbatore,Violent Crime,Homicide,Educational Institution,42,male,Unresolved,medium
+CR00142,14-11-2025,12:07,Delhi,New Delhi,Violent Crime,Homicide,Online,33,Female,Charges Filed,medium
+CR01600,20-10-2025,14:42,Maharashtra,Pune,Violent Crime,Homicide,Online,33,Female,Charges Filed,High
+CR00372,07-12-2025,06:00,Karnataka,Bengaluru,Cybercrime,Online Harassment,Online,38,Female,Closed,Low
+CR00672,02-12-2025,06:43,Maharashtra,Mumbai,Property Crime,vandalism,Residential Area,41,Other,Pending Court,Low
+CR01675,10-08-2025,09:15,delhi,New Delhi,Cybercrime,Online Harassment,Online,45,Not recorded,Charges Filed,High
+CR00435,12-08-2025,03:23,Tamil Nadu,Coimbatore,Public Order,Drug Possession,Public Transport,45,Other,Closed,High
+CR00001,05-06-2025,08:37,Andhra Pradesh,Vijayawada,Cybercrime,Phishing,Online,48,Other,Pending Court,Low
+CR00400,14-07-2025,20:14,Telangana,Hyderabad,Property Crime,Theft,Online,17,Female,charges filed,Low
+CR01029,05-03-2025,11:14,Karnataka,Mysuru,Fraud,online fraud,Online,57,male,Closed,Critical
+CR00112,18-10-2025,21:39,Karnataka,Mysuru,Property Crime,Theft,Commercial Area,83,male,Pending Court,High
+CR00019,09-04-2025,06:02,Delhi,New Delhi,Property Crime,Vandalism,Residential Area,63,Not recorded,Charges Filed,medium
+CR00043,07-03-2025,06:11,Telangana,Hyderabad,Cybercrime,Online Harassment,Online,21,Not recorded,Charges Filed,Critical
+CR01769,08-12-2025,23:32,Maharashtra,Pune,Property Crime,Vehicle Theft,Office,35,Not recorded,Under Investigation,Low
+CR01608,28-02-2025,21:03,Tamil Nadu,Chennai,Property Crime,Theft,Commercial Area,21,Female,Under Investigation,Low
+CR00048,11-09-2025,03:04,Kerala,Kochi,Public Order,Public Disturbance,Market,37,male,Under Investigation,medium
+CR01306,13-08-2025,19:12,Telangana,,Fraud,Financial Scam,Online,28,Not recorded,Unresolved,High
+CR01722,10-06-2025,15:06,Andhra Pradesh,Vijayawada,Violent Crime,Homicide,Residential Area,36,Female,Pending Court,medium
+CR01207,12-09-2025,03:29,Tamil Nadu,Coimbatore,Cybercrime,Account Hacking,Online,27,Female,Pending Court,High
+CR01544,01-03-2025,20:14,Karnataka,Bengaluru,Violent Crime,Robbery,Public Transport,31,Not recorded,Pending Court,High
+CR01231,11-11-2025,06:54,Karnataka,Mysuru,Property Crime,Vehicle Theft,Residential Area,36,Female,Pending Court,Low
+CR00737,10-05-2025,08:20,Andhra Pradesh,Vijayawada,Violent Crime,Homicide,Educational Institution,28,Other,Unresolved,medium
+CR00752,18-06-2025,15:53,Tamil Nadu,Coimbatore,Public Order,Public Disturbance,Residential Area,33,Not recorded,Closed,High
+CR00060,04-04-2025,18:06,Tamil Nadu,Chennai,Cybercrime,Online Harassment,Online,33,Not recorded,Under Investigation,medium
+CR00432,23-11-2025,04:30,Maharashtra,Pune,Public Order,Trespassing,Public Transport,36,male,Closed,medium
+CR01671,22-04-2025,16:05,Karnataka,Bengaluru,Violent Crime,Assault,Educational Institution,24,male,Under Investigation,medium
+CR00842,26-01-2025,09:49,Maharashtra,Pune,Violent Crime,Robbery,Public Transport,35,Other,Under Investigation,medium
+CR01291,03-12-2025,19:47,Andhra Pradesh,Vijayawada,Violent Crime,Robbery,Road/Street,18,male,Under Investigation,medium
+CR00084,18-10-2025,02:30,Maharashtra,MUMBAI,Cybercrime,Phishing,Online,34,Female,Pending Court,Low
+CR00564,30-01-2025,21:38,Karnataka,Mysuru,Public Order,Public Disturbance,Commercial Area,32,Other,Pending Court,medium
+CR00080,12-09-2025,06:28,Karnataka,Bengaluru,Property Crime,Theft,Office,32,Not recorded,Closed,Low
+CR01721,28-06-2025,04:51,Maharashtra,Pune,Property Crime,Burglary,Residential Area,12,male,Charges Filed,medium
+CR01386,11-10-2025,04:10,Tamil Nadu,Chennai,Cybercrime,Online Harassment,Online,37,Other,Pending Court,High
+CR00859,29-06-2025,01:31,Kerala,Kochi,Cybercrime,Phishing,Online,30,Not recorded,Charges Filed,Low
+CR00534,14-07-2025,00:36,Andhra Pradesh,Vijayawada,Cybercrime,Account Hacking,Online,43,Female,Unresolved,Low
+CR00727,18-04-2025,17:48,Maharashtra,Mumbai,Cybercrime,Phishing,Online,37,Not recorded,Charges Filed,High
+CR01588,02-03-2025,13:33,Maharashtra,Mumbai,Violent Crime,Assault,Office,42,male,Under Investigation,medium
+CR00370,18-03-2025,05:07,Kerala,Kochi,Cybercrime,Online Harassment,Online,44,male,Charges Filed,medium
+CR01370,14-01-2025,17:13,Maharashtra,Pune,Public Order,Trespassing,Market,26,Other,Closed,medium
+CR00071,14-05-2025,13:34,Maharashtra,Mumbai,Violent Crime,Assault,Online,52,Not recorded,Under Investigation,Low
+CR01438,07-11-2025,19:15,Maharashtra,Pune,Fraud,Online Fraud,Online,53,Other,Charges Filed,Low
+CR00696,13-02-2025,14:21,Delhi,New Delhi,Public Order,Drug Possession,Office,47,Female,Unresolved,Low
+CR01041,13-04-2025,09:31,Tamil Nadu,Coimbatore,Public Order,Public Disturbance,Online,12,Not recorded,Closed,medium
+CR01254,25-06-2025,13:53,Delhi,New Delhi,Property Crime,Burglary,Commercial Area,23,Other,Pending Court,medium
+CR00787,28-08-2025,18:47,Maharashtra,Mumbai,Public Order,Drug Possession,Residential Area,63,male,Under Investigation,High
+CR00660,19-09-2025,13:54,Delhi,New Delhi,Violent Crime,Assault,Educational Institution,43,Female,Pending Court,medium
+CR00438,06-08-2025,11:36,Karnataka,Mysuru,Cybercrime,Phishing,Online,48,male,Charges Filed,medium
+CR00164,29-05-2025,05:51,ANDHRA PRADESH,Vijayawada,Violent Crime,Robbery,Commercial Area,18,male,Closed,Low
+CR01521,02-02-2025,02:30,Tamil Nadu,Chennai,Fraud,Online Fraud,  Online,43,Female,Charges Filed,Low
+CR00543,28-04-2025,15:57,Delhi,New Delhi,Cybercrime,Account Hacking,Online,47,Female,Under Investigation,Low
+CR01574,31-07-2025,10:08,Telangana,Hyderabad,Fraud,Identity Fraud,Online,12,Not recorded,Under Investigation,Low
+CR00295,02-12-2025,11:13,Tamil Nadu,Chennai,Public Order,Trespassing,Public Transport,49,male,Charges Filed,medium
+CR01221,25-12-2025,03:51,Delhi,New Delhi,Violent Crime,Robbery,Public Transport,31,male,Unresolved,medium
+CR00335,14-04-2025,23:58,telangana,Hyderabad,Cybercrime,Account Hacking,Online,52,Female,Closed,medium
+CR00546,15-11-2025,14:45,Tamil Nadu,Chennai,Property Crime,Theft,Road/Street,37,male,Under Investigation,medium
+CR00561,23-11-2025,13:30,Delhi,New Delhi,Public Order,Public Disturbance,Road/Street,13,Other,Charges Filed,Low
+CR01670,22-07-2025,14:06,Andhra Pradesh,Vijayawada,Property Crime,Vandalism,Educational Institution,30,Female,Unresolved,Low
+CR00336,23-09-2025,15:48,Telangana,Hyderabad,Public Order,Drug Possession,Residential Area,56,Other,Under Investigation,High
+CR00982,23-01-2025,20:49,Andhra Pradesh,Vijayawada,Cybercrime,Phishing,Online,38,Not recorded,CHARGES FILED,Low
+CR00516,10-07-2025,23:55,tamil nadu,Chennai,Fraud,Financial Scam,Online  ,17,Other,Closed,Low
+CR00504,10-05-2025,15:54,Andhra Pradesh,Vijayawada,Public Order,Drug Possession,Office,41,Not recorded,Closed,High
+CR01450,18-04-2025,03:30,Kerala,Kochi,Fraud,Identity Fraud,Online,33,Other,Closed,Low
+CR01183,09-04-2025,07:22,Maharashtra,Mumbai,Property Crime,Burglary,Road/Street,25,male,Pending Court,Low
+CR00066,16-07-2025,01:47,Tamil Nadu,Coimbatore,Public Order,Public Disturbance,Road/Street,23,Other,Pending Court,Low
+CR00594,24-04-2025,05:18,Telangana,Hyderabad,Fraud,Identity Fraud,Online,63,Female,Closed,medium
+CR00589,07-09-2025,01:57,Karnataka,Bengaluru,Fraud,Financial Scam,Online,46,Not recorded,Under Investigation,Low
+CR01627,12-08-2025,17:54,Andhra Pradesh,Vijayawada,Property Crime,Vehicle Theft,Public Transport,45,Female,Charges Filed,High
+CR01676,09-08-2025,18:11,Karnataka,Mysuru,Cybercrime,Online Harassment,Online,29,Female,Unresolved,medium
+CR01626,19-07-2025,03:06,Maharashtra,Pune  ,Fraud,Identity Fraud,Online,63,male,Pending Court,Low
+CR00057,08-10-2025,19:57,Tamil Nadu,  Coimbatore,Cybercrime,Phishing,Online,55,Not recorded,Pending Court,medium
+CR00348,05-01-2025,08:07,Tamil Nadu,Chennai,Violent Crime,Homicide,Road/Street,51,Female,Pending Court,medium
+CR01409,27-08-2025,20:50,Tamil Nadu,Coimbatore,Fraud,Identity Fraud,Online,49,Other,Pending Court,medium
+CR01330,12-07-2025,19:55,Andhra Pradesh,Vijayawada,Public Order,Drug Possession,Residential Area,19,Not recorded,Pending Court,medium
+CR00021,08-06-2025,04:39,Maharashtra,Mumbai,Cybercrime,Account Hacking,Online,50,male,  Charges Filed,Low
+CR00505,09-03-2025,06:15,Telangana,Hyderabad,Public Order,Public Disturbance,Public Transport,28,Female,Closed,Low
+CR01419,12-04-2025,10:41,Karnataka,Mysuru,Property Crime,Theft,Road/Street,43,Other,Charges Filed,medium
+CR01493,21-06-2025,09:03,Tamil Nadu,Chennai,Public Order,Trespassing,Residential Area,25,Female,Pending Court,Low
+CR00965,28-06-2025,17:42,Tamil Nadu,Coimbatore,Property Crime,Theft,Public Transport,25,male,Charges Filed,High
+CR00700,11-03-2025,02:33,,Hyderabad,Cybercrime,Online Harassment,Online  ,14,male,Under Investigation,Low
+CR00769,17-05-2025,13:02,Maharashtra,Mumbai,Fraud,Financial Scam,Online,12,Other,Unresolved,Critical
+CR01757,15-11-2025,09:37,Andhra Pradesh,Vijayawada,Public Order,Public Disturbance,Residential Area,38,Other,Closed,Low
+CR01119,28-06-2025,02:59,Maharashtra,Pune,Cybercrime,Phishing,Online,29,Other,Closed,Critical
+CR01360,20-09-2025,00:36,Tamil Nadu,Coimbatore,  Property Crime,Theft,Online,13,Other,Charges Filed,Critical
+CR01609,07-02-2025,22:44,Karnataka,Bengaluru,Public Order,Drug Possession,Office,31,Female,Charges Filed,medium
+CR01040,14-11-2025,15:10,Maharashtra,Pune,Public Order,Drug Possession,Market,55,Other,Charges Filed,High
+CR01296,12-08-2025,22:52,Telangana,Hyderabad,Fraud,Online Fraud,Online,28,male,Pending Court,medium
+CR01539,20-07-2025,07:58,Tamil Nadu,COIMBATORE,Fraud,Financial Scam,Online,60,Other,Pending Court,Low
+CR00984,11-07-2025,02:24,Delhi,New Delhi,Property Crime,Burglary,Public Transport,43,Female,Pending Court,Critical
+CR01514,31-08-2025,12:06,KERALA,Kochi,Property Crime,Vandalism,Commercial Area,12,Not recorded,UNDER INVESTIGATION,medium
+CR01204,16-09-2025,18:18,Andhra Pradesh,Vijayawada,Cybercrime,Phishing,Online,46,male,Pending Court,Low
+CR00012,25-03-2025,15:24,Karnataka,Bengaluru,Fraud,Financial Scam,Online,22,male,Charges Filed,Low
+CR00092,24-08-2025,02:14,Karnataka,Mysuru,Cybercrime,Account Hacking,Online,40,Not recorded,UNDER INVESTIGATION,medium
+CR00653,19-01-2025,09:55,Andhra Pradesh,Vijayawada,Fraud,Financial Scam,Online,26,Other,Under Investigation,Critical
+CR01680,18-12-2025,03:46,Telangana,Hyderabad,Public Order,drug possession,Market,39,Female,Charges Filed,Low
+CR01581,15-04-2025,12:09,Kerala,Kochi,Property Crime,Burglary,Market,38,Other,Pending Court,medium
+CR01262,23-01-2025,01:46,Maharashtra,Mumbai,Property Crime,Vandalism,Commercial Area,31,Other,Under Investigation,medium
+CR00567,09-06-2025,00:07,Tamil Nadu,Coimbatore,Cybercrime,Phishing,Online,35,Not recorded,Charges Filed,Low
+CR00377,27-03-2025,22:41,Tamil Nadu,Chennai,Public Order,Drug Possession,Commercial Area,25,Other,Unresolved,Low
+CR01703,21-08-2025,03:53,Delhi,New Delhi,Fraud,Financial Scam,Online,27,Other,Under Investigation,High
+CR01427,13-12-2025,17:17,Karnataka,Mysuru,Cybercrime,Account Hacking,Online,36,Not recorded,Pending Court,Low
+CR01000,14-05-2025,13:17,Karnataka,Mysuru,Fraud,Identity Fraud,Online,34,Other,Pending Court,High
+CR00838,22-11-2025,06:32,Tamil Nadu,Chennai,Cybercrime,Online Harassment,Online,12,male,Under Investigation,Low
+CR00002,19-11-2025,02:37,Andhra Pradesh,Vijayawada,Public Order,Drug Possession,Residential Area,34,Female,Under Investigation,Low
+CR00390,01-06-2025,20:06,Telangana,Hyderabad,Property Crime,Theft,Office,29,Female,Closed,Low
+CR01457,02-07-2025,19:29,Kerala,Kochi,Fraud,Identity Fraud,Online,34,Other,Unresolved,medium
+CR01357,16-11-2025,21:49,Kerala,Kochi,Property Crime,Vandalism,Public Transport,73,male,Pending Court,High
+CR00188,24-12-2025,10:57,Delhi,New Delhi,Fraud,Financial Scam,Online,39,Female,Unresolved,High
+CR00998,28-04-2025,23:40,Tamil Nadu,Coimbatore,Cybercrime,Account Hacking,Online,18,Not recorded,Unresolved,High
+CR00757,11-02-2025,17:50,Maharashtra,Pune,Property Crime,Vandalism,Residential Area,59,Female,Charges Filed,Low
+CR00798,28-02-2025,14:42,Tamil Nadu,Chennai,Public Order,Trespassing,Commercial Area,42,male,Unresolved,medium
+CR01549,13-10-2025,08:48,Tamil Nadu,Coimbatore,Violent Crime,Assault,Educational Institution,52,Female,Pending Court,High
+CR00036,28-10-2025,06:02,Maharashtra,Mumbai,Fraud,Online Fraud,Online,24,male,Pending Court,High
+CR01382,12-01-2025,08:20,Karnataka,Bengaluru,Cybercrime,Phishing,Online,24,male,Closed,Low
+CR00367,03-04-2025,06:03,Tamil Nadu,Coimbatore,Property Crime,Vehicle Theft,Office,18,Female,Closed,Low
+CR01589,15-04-2025,14:40,Telangana,Hyderabad,  Cybercrime,Phishing,Online,29,Female,Unresolved,High
+CR00274,04-12-2025,23:32,Maharashtra,Mumbai,Property Crime,Theft,Residential Area,32,Female,Closed,High
+CR00389,23-10-2025,16:06,Telangana,Hyderabad,Cybercrime,Phishing,Online,25,Female,Pending Court,Low
+CR01098,14-08-2025,14:28,Karnataka,Bengaluru,Fraud,Identity Fraud,Online,33,male,Unresolved,Low
+CR00396,05-03-2025,17:54,Tamil Nadu,Coimbatore,Public Order,Public Disturbance,Road/Street,12,Not recorded,Pending Court,Low
+CR00588,05-11-2025,19:21,Maharashtra,Pune,Cybercrime  ,Phishing,Online,29,Other,Charges Filed,Low
+CR00603,17-12-2025,01:50,Delhi,New Delhi,Cyber Crime,Online Harassment,Online,41,male,Unresolved,medium
+CR00319,14-07-2025,19:42,Maharashtra,Mumbai,Cybercrime,Phishing,Online,37,male,Charges Filed,Low
+CR01060,09-12-2025,16:31,Karnataka,Bengaluru,Violent Crime,Homicide,Road/Street,45,Not recorded,Unresolved,medium
+CR00703,06-02-2025,21:24,Maharashtra,Pune,Cybercrime,Online Harassment,Online,20,Other,Unresolved,medium
+CR00918,16-07-2025,12:00,Karnataka,Bengaluru,Fraud,Online Fraud,Online,44,male,Charges Filed,medium
+CR01184,11-11-2025,04:09,Maharashtra,Mumbai,Fraud,Identity Fraud,Online,42,Other,Charges Filed,medium
+CR01503,08-07-2025,17:08,Karnataka,Mysuru,Cybercrime,Online Harassment,Online,33,Other,Under Investigation,Low
+CR00584,03-05-2025,18:58,tamil nadu,Coimbatore,Public Order,Trespassing,Educational Institution,34,Other,Closed,Low
+CR00704,06-01-2025,22:37,Andhra Pradesh,Vijayawada,Violent Crime,Assault,Residential Area,47,male,Pending Court,medium
+CR00184,04-12-2025,01:34,Delhi,New Delhi,Property Crime,Theft,Market,35,Other,Under Investigation,High
+CR00222,26-02-2025,03:18,Andhra Pradesh,Vijayawada,Fraud,FINANCIAL SCAM,Online,23,Not recorded,Closed,Low
+CR01465,20-03-2025,06:39,Delhi,New Delhi,Cybercrime,Online Harassment,Online,32,Other,Pending Court,Low
+CR01008,03-01-2025,09:18,Delhi,New Delhi,Public Order,Drug Possession,Commercial Area,26,male,Pending Court,medium
+CR01157,22-05-2025,06:37,Delhi,New Delhi,Violent Crime,  Assault,Office,25,male,Charges Filed,Low
+CR01454,30-11-2025,18:07,Telangana,Hyderabad,Violent Crime,Assault,Office,53,Female,Charges Filed,medium
+CR01138,21-02-2025,02:08,Andhra Pradesh,Vijayawada,Property Crime,Theft,Market,24,Not recorded,Closed,Low
+CR00018,11-09-2025,08:46,Karnataka,Bengaluru,Property Crime,Vandalism,Commercial Area,39,male,Charges Filed,Low
+CR00161,10-10-2025,22:26,Kerala,Kochi,Cybercrime,Account Hacking,Online,48,Not recorded,Pending Court,High
+CR00734,24-11-2025,07:18,  Maharashtra,Mumbai,Cybercrime,Online Harassment,Online,51,Not recorded,Pending Court,Low
+CR01708,01-04-2025,13:49,Maharashtra,Mumbai,PROPERTY CRIME,Burglary,Market,44,Female,Charges Filed,medium
+CR00833,21-06-2025,16:50,Tamil Nadu,Chennai,Fraud,ONLINE FRAUD,Online,29,male,Under Investigation,High
+CR01478,18-02-2025,11:50,Karnataka,Mysuru,Violent Crime,Homicide,Road/Street,47,Other,Charges Filed,Low
+CR00937,02-05-2025,16:53,Kerala,Kochi,Public Order,Trespassing,Commercial Area,32,Female,Pending Court,medium
+CR00162,13-02-2025,10:38,Tamil Nadu,Chennai,Property Crime,Vehicle Theft  ,Online,55,Not recorded,Closed,High
+CR01321,25-12-2025,04:57,Andhra Pradesh,Vijayawada,Cybercrime,Online Harassment,Online,47,Other,Under Investigation,Low
+CR01115,03-08-2025,04:56,Kerala,Kochi,Cybercrime,Account Hacking,Online,28,male,Under Investigation,medium
+CR00985,29-08-2025,14:52,Telangana,Hyderabad,Cybercrime,Phishing,Online,35,male,Under Investigation,Low
+CR00994,22-09-2025,05:42,Delhi,New Delhi,Property Crime,Vandalism,Road/Street,37,Other,Unresolved,Low
+CR00121,21-06-2025,18:10,Maharashtra,Mumbai,Property Crime,Theft,Educational Institution,42,Female,Under Investigation,Low
+CR00763,23-05-2025,10:31,Tamil Nadu,Chennai,Property Crime,Burglary,Commercial Area,12,Other,Charges Filed,Low
+CR01337,13-12-2025,01:19,Tamil Nadu,Chennai,Violent Crime,Assault,Online,19,Not recorded,Pending Court,Low
+CR01265,22-12-2025,11:23,Karnataka,Mysuru,Property Crime,Vandalism,Office,13,Female,Under Investigation,Low
+CR01144,08-01-2025,06:50,Tamil Nadu,Chennai,Property Crime,Vehicle Theft,Online,34,Other,Under Investigation,Low
+CR00051,09-02-2025,13:07,Tamil Nadu,Coimbatore,Public Order,Public Disturbance,Online,41,male,Charges Filed,Critical
+CR00337,03-01-2025,22:10,Andhra Pradesh,Vijayawada,Fraud,Online Fraud,Online,29,Female,Pending Court,medium
+CR01233,27-06-2025,20:28,Delhi,New Delhi,Cybercrime,Phishing,Online,19,Female,Closed,Critical
+CR00662,08-11-2025,00:31,Kerala,Kochi,Cybercrime,Phishing,Online,21,Female,Under Investigation,High
+CR01584,12-01-2025,21:20,Kerala,Kochi,Public Order,Trespassing,Online,22,Female,Charges Filed,Critical
+CR00874,13-05-2025,09:40,Karnataka,Bengaluru,Property Crime,Vehicle Theft,Office,29,Other,Pending Court,Low
+CR01511,08-12-2025,07:08,Karnataka,Mysuru,Public Order,trespassing,Market,41,Not recorded,Charges Filed,High
+CR00101,15-12-2025,16:00,Delhi,New Delhi,Public Order,Public Disturbance,Road/Street,36,Not recorded,Pending Court,medium
+CR01346,07-08-2025,21:55,Tamil Nadu,Coimbatore,Cybercrime,Online Harassment,Online,29,male,Charges Filed,High
+CR00439,01-09-2025,19:39,Kerala,Kochi,Cybercrime,Account Hacking,Online,36,Not recorded,,medium
+CR00150,01-07-2025,02:33,Maharashtra,Mumbai,Public Order,Trespassing,Market,31,Female,Pending Court,High
+CR01083,27-04-2025,11:28,Maharashtra,Mumbai,Fraud,Online Fraud,Online,35,Female,Closed,Low
+CR01383,06-01-2025,23:54,karnataka,Mysuru,Public Order,Trespassing,Residential Area,53,Other,Charges Filed,medium
+CR00041,03-08-2025,20:23,Tamil Nadu,Chennai,Fraud,Identity Fraud,Online,40,Other,Pending Court,Low
+CR01224,01-10-2025,12:05,Maharashtra,Mumbai,Violent Crime,Assault,Public Transport,45,Other,Under Investigation,High
+CR00298,"Dec 15, 2025",06:46,Telangana,Hyderabad,Public Order,Trespassing,Online,26,Female,Under Investigation,High
+CR01660,10-11-2025,23:03,Karnataka,Bengaluru,Cybercrime,Online Harassment,Online,20,Other,Closed,medium
+CR00429,28-12-2025,14:35,Maharashtra,Mumbai,Property Crime,Burglary,Commercial Area,41,Not recorded,Charges Filed,Critical
+CR00196,14-05-2025,17:32,Telangana,Hyderabad,Violent Crime,Homicide,Online,36,Other,Charges Filed,High
+CR01310,18-09-2025,12:08,Andhra Pradesh,Vijayawada,Property Crime,Vandalism,Online,53,Female,Unresolved,Low
+CR01618,21-02-2025,08:46,Kerala,Kochi,Cybercrime  ,Account Hacking,Online,32,Not recorded,Under Investigation,Low
+CR01244,14-07-2025,22:26,Tamil Nadu,Coimbatore,Violent Crime,Robbery,Public Transport,27,Other,Closed,Low
+CR00580,07-03-2025,09:14,Kerala,Kochi,Public Order,Drug Possession,Public Transport,22,Other,Closed,medium
+CR00209,04-10-2025,11:46,Kerala,Kochi,Property Crime,VANDALISM,Road/Street,71,male,Closed,medium
+CR00600,28-12-2025,15:29,Karnataka,Mysuru,Violent Crime,Robbery,Residential Area,43,male,Unresolved,Low
+CR01003,13-03-2025,20:56,Karnataka,Bengaluru,Property Crime,Theft,Commercial Area,24,Female,Under Investigation,High
+CR00980,10-09-2025,23:00,Tamil Nadu,Chennai,Violent Crime,Assault,Educational Institution,17,Not recorded,Unresolved,Critical
+CR01168,17-11-2025,05:21,Maharashtra,Mumbai,Cybercrime,Online Harassment,Online,26,Other,Charges Filed,High
+CR00354,16-05-2025,10:55,Karnataka,Mysuru,Fraud,Identity Fraud,Online,17,male,,Low
+CR01663,16-12-2025,13:43,Andhra Pradesh,Vijayawada,Violent Crime,Homicide,Market,50,male,Pending Court,Low
+CR01730,08-10-2025,21:02,Telangana,Hyderabad,Cybercrime,Online Harassment,Online,30,Other,Closed,High
+CR00307,03-10-2025,22:53,Maharashtra,Pune,Property Crime,Theft,Market,25,male,Closed,Low
+CR01659,24-12-2025,06:07,Maharashtra,Pune,Fraud,Online Fraud,Online,12,Not recorded,Closed,medium
+CR00602,25-06-2025,18:17,Karnataka,Bengaluru,Violent Crime,Assault,Educational Institution,12,Female,Pending Court,High
+CR01506,01-01-2025,23:02,Telangana,Hyderabad,fraud,Online Fraud,Online,45,male,Closed,Medium
+CR01744,30-09-2025,03:12,Andhra Pradesh,Vijayawada,Public Order,Public Disturbance,road/street,38,Other,Closed,High
+CR00167,10-08-2025,10:10,Tamil Nadu,Coimbatore,Fraud,Identity Fraud,Online,50,Female,,High
+CR01707,18-07-2025,12:39,Maharashtra,Pune,Cybercrime,Online Harassment,Online,60,Not recorded,Charges Filed,Low
+CR00802,30-09-2025,19:37,Kerala,Kochi,Violent Crime,Homicide,Educational Institution,17,Not recorded,Under Investigation,Low
+CR01071,17-09-2025,01:15,Tamil Nadu,Chennai,Fraud,Online Fraud,Online,37,Other,Unresolved,medium
+CR00205,22-02-2025,19:47,Andhra Pradesh,Vijayawada,Violent Crime,Robbery,Market,53,Not recorded,Charges Filed,medium
+CR01534,31-10-2025,22:59,Karnataka,Mysuru,Property Crime,Vandalism,Online,19,Not recorded,Unresolved,High
+CR00040,14-11-2025,00:26,Delhi,New Delhi,Public Order,Public Disturbance,Commercial Area,12,Other,Under Investigation,High
+CR00790,31-01-2025,09:54,Maharashtra,Pune,Fraud,Online Fraud,Online,45,Not recorded,Under Investigation,medium
+CR00698,15-06-2025,05:35,Maharashtra,Mumbai,Property crime,Burglary,Educational Institution,41,male,Charges Filed,High
+CR01791,27-09-2025,04:13,Tamil Nadu,Coimbatore,Property Crime,Vandalism,Residential Area,20,Other,Closed,Low
+CR00289,06-01-2025,12:59,Telangana,HYDERABAD,Cybercrime,Phishing,Online,41,male,Unresolved,Low
+CR00402,18-06-2025,18:11,Karnataka,Mysuru,Public Order,Public Disturbance,Online,12,Female,PENDING COURT,medium
+CR01072,02-08-2025,23:07,Telangana,Hyderabad,Property Crime,Burglary,Online,17,Female,Charges Filed,medium
+CR01592,06-01-2025,13:52,Karnataka,Mysuru,Violent Crime,Robbery,Residential Area,27,Other,Closed,medium
+CR00882,08-05-2025,18:08,Delhi,New Delhi,Public Order,Drug Possession,Road/Street,22,Other,Under Investigation,medium
+CR01327,12-10-2025,06:29,Karnataka,Bengaluru,Violent Crime,Robbery,Office,15,Female,Unresolved,Low
+CR00446,09-12-2025,02:36,Karnataka,Mysuru,Public Order,Trespassing,Market,39,Female,Under Investigation,Low
+CR01654,09-10-2025,05:33,Karnataka,Mysuru,Public Order,Drug Possession,Market,35,Not recorded,Charges Filed,High
+CR01379,07-09-2025,23:03,Maharashtra,Mumbai,Property Crime,Burglary,Road/Street,35,Not recorded,Under Investigation,High
+CR01062,08-06-2025,03:04,Karnataka,Mysuru,Fraud,Financial Scam,Online,48,Female,Under Investigation,Low
+CR01384,27-01-2025,15:21,Tamil Nadu,Coimbatore,Fraud,Financial Scam,Online,21,Other,Closed,Low
+CR00570,20-11-2025,06:58,Maharashtra,Pune,Property Crime,Vandalism,Road/Street,35,Not recorded,Pending Court,Medium
+CR00251,28-06-2025,22:45,Telangana,Hyderabad,Fraud,Identity Fraud,Online,62,Not recorded,Closed,Low
+CR00444,12-01-2025,04:14,Kerala,Kochi,cybercrime,Online Harassment,Online,34,Female,Pending Court,Low
+CR00630,02-11-2025,04:08,Maharashtra,Pune,Fraud,Financial Scam,Online,33,Female,Unresolved,medium
+CR01578,04-10-2025,21:56,Andhra Pradesh,Vijayawada,Fraud,Financial Scam,Online,59,Not recorded,Pending Court,medium
+CR00981,25-05-2025,08:36,Maharashtra,Pune,Violent Crime,Assault,Educational Institution,46,male,Charges Filed,Low
+CR01529,23-06-2025,11:43,Tamil Nadu,Coimbatore,Fraud,Online Fraud,Online,40,Female,Unresolved,Low
+CR01019,31-10-2025,13:11,Delhi,New Delhi,Violent Crime,Assault,commercial area,28,male,Unresolved,Low
+CR00745,20-01-2025,20:26,Tamil Nadu,Coimbatore,Property Crime,Vehicle Theft,Online,38,Female,Pending Court,medium
+CR01486,18-03-2025,15:38,Delhi,  New Delhi,Violent Crime,Homicide,Commercial Area,40,male,Under Investigation,Low
+CR00834,21-02-2025,16:19,Kerala,Kochi,  Violent Crime,Robbery,Educational Institution,34,male,Under Investigation,Low
+CR00025,20-02-2025,14:34,Karnataka,Bengaluru,Cybercrime,Online Harassment,Online,46,Other,Pending Court,High
+CR00252,10-05-2025,04:33,Karnataka,Bengaluru,Property Crime,Vehicle Theft,Online,42,Other,Closed,High
+CR01532,05-07-2025,18:30,Andhra Pradesh,Vijayawada,Public Order,Public Disturbance,Residential Area,26,Female,Closed,High
+CR00579,"Nov 05, 2025",15:17,Karnataka,Mysuru,Public Order,Public Disturbance,Residential Area,37,Not recorded,Closed,High
+CR00538,26-10-2025,14:20,Delhi,New Delhi,Cybercrime,Account Hacking,Online,52,Female,Under Investigation,Low
+CR00346,23-02-2025,04:30,Telangana,Hyderabad,FRAUD,Online Fraud,Online,35,Not recorded,Pending Court,High
+CR00061,23-10-2025,19:49,Telangana,Hyderabad,Public Order,Trespassing,Market,19,male,Under Investigation,medium
+CR00831,14-01-2025,09:39,Telangana,Hyderabad,Public Order,Public Disturbance,Office,28,Female,Under Investigation,High
+CR00089,29-12-2025,01:40,Tamil Nadu,Coimbatore,Fraud,Online Fraud,Online,56,Female,Charges Filed,medium
+CR00508,24-05-2025,18:26,Karnataka,Mysuru,Fraud,Online Fraud,Online,35,male,Closed,medium
+CR00177,07-12-2025,12:19,Maharashtra,Mumbai,Cybercrime,Online Harassment,Online,41,male,Unresolved,Low
+CR00148,22-04-2025,03:43,Karnataka,Bengaluru,Public Order,Trespassing,Online,25,Other,Closed,medium
+CR00601,11-02-2025,00:30,Tamil Nadu,Coimbatore,Property Crime,Burglary,Commercial Area,44,male,Pending Court,Low
+CR01241,27-10-2025,16:29,Kerala,Kochi,Property Crime,Vehicle Theft,Commercial Area,28,Other,Under Investigation,medium
+CR01756,23-04-2025,19:57,Maharashtra,Mumbai,Cybercrime,Online Harassment,Online,44,Not recorded,Pending Court,High
+CR01737,14-03-2025,02:37,Karnataka,Mysuru,Property crime,Burglary,Public Transport,15,Female,Charges Filed,High
+CR01625,11-08-2025,13:35,Delhi,New Delhi,Cybercrime,Phishing,Online,52,male,Charges Filed,High
+CR00351,11-06-2025,04:00,Andhra Pradesh,Vijayawada,Property Crime,Burglary,Residential Area,34,Not recorded,Charges Filed,medium
+CR01188,10-11-2025,02:15,Telangana,Hyderabad,Property Crime,Burglary,Road/Street,50,Female,Unresolved,medium
+CR00990,08-04-2025,21:35,Karnataka,Mysuru,Fraud,Online Fraud,Online,53,Female,Unresolved,medium
+CR00556,06-05-2025,10:48,Karnataka,Mysuru,Public Order,Trespassing,Online,48,Not recorded,Under Investigation,medium
+CR00810,28-01-2025,13:02,Karnataka,Bengaluru,Cybercrime,Account Hacking,Online,51,Other,Unresolved,medium
+CR01431,15-10-2025,22:54,,Hyderabad,Violent Crime,Homicide,Office,61,Other,Pending Court,Critical
+CR01288,03-06-2025,06:58,Tamil Nadu,Chennai,Public Order,Public Disturbance,Online,30,Other,Pending Court,Critical
+CR00463,29-07-2025,11:22,Maharashtra,Mumbai,Cybercrime,Phishing,ONLINE,38,Female,Pending Court,medium
+CR00587,11-02-2025,21:39,Andhra Pradesh,Vijayawada,Violent Crime,Assault,Public Transport,71,Other,Charges Filed,Critical
+CR01599,20-10-2025,03:54,Tamil Nadu,Chennai,Violent Crime,Robbery,Commercial Area,30,Female,Charges Filed,medium
+CR01535,19-04-2025,03:16,Delhi,New Delhi,Violent Crime,Robbery,Road/Street,25,Other,Charges Filed,High
+CR01690,19-03-2025,14:05,Karnataka,Bengaluru,Public Order,Public Disturbance,Educational Institution,50,Not recorded,Pending Court,Low
+CR01651,12-09-2025,21:58,Maharashtra,Pune,Property Crime,Theft,Road/Street,18,Not recorded,Pending Court,High
+CR01356,24-02-2025,00:30,Maharashtra,Mumbai,Cybercrime,Online Harassment,Online,20,Female,Unresolved,medium
+CR00650,23-11-2025,19:51,Maharashtra,Mumbai,Fraud,Online Fraud,Online,30,Female,Under Investigation,Low
+CR00313,27-08-2025,21:27,Kerala,Kochi,Cybercrime,Online Harassment,Online,61,Not recorded,Pending Court,medium
+CR01037,27-08-2025,04:38,Karnataka,Bengaluru,Violent Crime,Robbery,Public Transport,24,Female,Under Investigation,Low
+CR00761,08-03-2025,12:52,Karnataka,Bengaluru,Public Order,Drug Possession,Market,12,Female,Charges Filed,medium
+CR00765,19-08-2025,08:39,Karnataka,Mysuru,Cybercrime,Account Hacking,Online,74,Not recorded,  Closed,Low
+CR01467,12-02-2025,16:41,Delhi,New Delhi,Cybercrime,Online Harassment,Online,25,male,pending court,medium
+CR00309,11-08-2025,09:03,Karnataka,Mysuru,Cybercrime,Online Harassment,Online,28,Not recorded,,medium
+CR00724,26-05-2025,13:00,Tamil Nadu,  Chennai,Property Crime,Theft,Residential Area,12,Not recorded,Unresolved,medium
+CR00909,11-05-2025,01:34,Karnataka,Mysuru,Fraud,Identity Fraud,Online,56,male,Unresolved,medium
+CR00781,17-04-2025,16:33,Maharashtra,Mumbai,Public Order,Trespassing,Online,42,male,Closed,Low
+CR00877,10-12-2025,04:00,Andhra Pradesh,Vijayawada,Public Order,Public Disturbance,Online,38,Other,Closed,medium
+CR00648,03-07-2025,18:16,Tamil Nadu,Chennai,Fraud,Financial Scam,Online,31,Other,Closed,Low
+CR00104,10-10-2025,12:11,Maharashtra,Mumbai,Cybercrime,Account Hacking,Online,37,male,Charges Filed,medium
+CR00573,21-04-2025,09:38,Karnataka,Bengaluru,Property Crime,Vehicle Theft,Residential Area,58,Not recorded,Under Investigation,medium
+CR01796,30-03-2025,00:16,Maharashtra,Pune,Property Crime,Vandalism,Educational Institution,19,Not recorded,Pending Court,Critical
+CR00663,11-05-2025,12:46,Maharashtra,Mumbai,Cybercrime,Online Harassment,Online,30,Other,Unresolved,medium
+CR01375,07-08-2025,18:09,Maharashtra,Pune,Cybercrime,Account Hacking,  Online,39,Other,Closed,High
+CR01767,28-03-2025,20:03,Maharashtra,Pune,Public Order,Drug Possession,Educational Institution,60,Female,Charges Filed,Critical
+CR01044,08-07-2025,10:20,Tamil Nadu,Chennai,Property Crime,Vandalism,Educational Institution,41,Not recorded,Unresolved,medium
+CR00758,12-06-2025,22:39,Kerala,Kochi,Fraud,Online Fraud,Online,20,Female,Unresolved,Low
+CR00499,14-08-2025,19:04,Telangana,Hyderabad,Public Order,Public Disturbance,Public Transport,60,Other,Pending Court,medium
+CR01768,21-06-2025,16:33,MAHARASHTRA,Mumbai,Public Order,Public Disturbance,Residential Area,38,Not recorded,Closed,High
+CR00347,08-10-2025,15:08,  Telangana,Hyderabad,Cybercrime,Phishing,Online,49,male,Pending Court,Low
+CR00491,12-07-2025,07:05,Karnataka,Bengaluru,Violent Crime,Assault,Educational Institution,43,male,Unresolved,medium
+CR00840,16-05-2025,13:51,Tamil Nadu  ,Chennai,Public Order,Trespassing,Road/Street,26,Other,Unresolved,Low
+CR01495,09-04-2025,01:34,Tamil Nadu,Coimbatore,Violent Crime,Assault,Educational Institution,54,Other,Under Investigation,medium
+CR01374,04-09-2025,23:21,Maharashtra,Pune,Public Order,Public Disturbance,Market,57,Female,Under Investigation,Low
+CR01726,03-06-2025,21:07,Telangana,Hyderabad,Fraud,Financial Scam,Online,45,male,Unresolved,Low
+CR01201,01-05-2025,16:08,Karnataka,Mysuru,Public Order,Trespassing,Road/Street,47,Female,Closed,High
+CR01351,02-01-2025,06:35,Tamil Nadu,Coimbatore,Fraud,Identity Fraud,Online  ,36,Not recorded,Unresolved,Low
+CR00447,22-11-2025,22:16,Maharashtra,Pune,Cybercrime,Phishing,Online,33,Female,Under Investigation,medium
+CR01023,11-07-2025,07:44,Karnataka,Bengaluru,Public Order,Trespassing,Public Transport,35,Other,Charges Filed,Low
+CR01746,27-07-2025,11:50,Kerala,Kochi,Property Crime,Burglary,Public Transport,40,Other,Unresolved,medium
+CR00484,28-09-2025,15:07,Tamil Nadu,Coimbatore,Public Order,Public Disturbance,Educational Institution,30,Female,Charges Filed,Medium
+CR00261,08-03-2025,08:10,Karnataka,Mysuru,Violent Crime,Robbery,Educational Institution,13,Female,Closed,medium
+CR01404,11-08-2025,06:24,Delhi,New Delhi,Public Order,Drug Possession,Public Transport,41,Female,Charges Filed,Low
+CR00242,01-07-2025,12:51,Delhi,New Delhi,Cybercrime,Online Harassment,Online,13,Other,Charges Filed,High
+CR01093,05-04-2025,22:04,Tamil Nadu,Chennai,Property Crime,Vehicle Theft,Commercial Area,43,male,Unresolved,High
+CR00381,09-09-2025,17:26,Telangana,Hyderabad,Violent Crime,Assault,Educational Institution,36,Other,Closed,Low
+CR00850,14-01-2025,13:38,Tamil Nadu,Coimbatore,Property Crime,Burglary,Office,30,Other,Charges Filed,Low
+CR01745,10-11-2025,00:11,Andhra Pradesh,Vijayawada,Cybercrime,Account Hacking,Online,37,Other,Under Investigation,medium
+CR00536,05-12-2025,14:27,Andhra Pradesh,Vijayawada,Public Order,Public Disturbance,Office,56,Female,Charges Filed,medium
+CR00788,27-04-2025,18:08,maharashtra,Mumbai,Public Order,Drug Possession,Residential Area,35,male,Closed,Low
+CR01246,27-09-2025,06:07,Karnataka,Bengaluru,Property Crime,Vandalism,Online,12,male,Pending Court,Critical
+CR01444,05-07-2025,04:50,Telangana,Hyderabad,Cybercrime,Phishing,Online,43,Female,Pending Court,medium
+CR01086,07-01-2025,05:34,Kerala,Kochi,Public Order,Trespassing,Educational Institution,35,Other,Under Investigation,Low
+CR00723,20-04-2025,15:27,Delhi,New Delhi,Cybercrime  ,Account Hacking,Online,12,Not recorded,Closed,medium
+CR00195,26-01-2025,11:02,Karnataka,Mysuru,Violent Crime,Robbery,Online,51,Female,Under Investigation,medium
+CR01579,01-04-2025,09:41,Karnataka,Mysuru,Property Crime,Vehicle Theft,Online,57,male,Closed,Low
+CR00311,31-10-2025,03:56,Telangana,Hyderabad,Public Order,Drug Possession,Educational Institution,45,male,Under Investigation,medium
+CR00257,07-09-2025,01:32,Delhi,New Delhi,Fraud,Identity Fraud,Online,50,male,Unresolved,High
+CR00352,02-12-2025,07:34,Kerala,Kochi,Fraud,Online Fraud,Online,18,Female,Unresolved,Low
+CR01076,12-02-2025,04:52,Tamil Nadu,Chennai,Property Crime,Vandalism,Commercial Area,48,Not recorded,Closed,medium
+CR00020,30-10-2025,14:27,Delhi,New Delhi,Violent Crime,Assault,Road/Street,39,Female,Unresolved,medium
+CR00160,24-01-2025,07:41,Karnataka,Bengaluru,Violent Crime,Robbery,Public Transport,32,male,Closed,Critical
+CR01034,31-12-2025,22:17,Kerala,Kochi,Property Crime,Theft,Commercial Area,52,Female,Closed,Low
+CR01597,16-02-2025,06:04,Maharashtra,Mumbai,Cybercrime,Account Hacking,Online,52,Other,Pending Court,High
+CR00664,09-12-2025,23:18,Delhi,New Delhi,Violent Crime,Robbery,Online,36,Female,Closed,medium
+CR01592,06-01-2025,13:52,Karnataka,Mysuru,Violent Crime,Robbery,Residential Area,27,Other,Closed,medium
+CR01013,14-06-2025,17:24,Telangana,Hyderabad,PROPERTY CRIME,Burglary,Public Transport,37,male,Closed,Low
+CR01681,28-03-2025,19:41,Tamil Nadu,Coimbatore,Fraud,Online Fraud,Online,20,Not recorded,Charges Filed,Critical
+CR00275,30-01-2025,17:02,Karnataka,Mysuru,Violent Crime,Homicide,Road/Street,39,Female,Pending Court,Low
+CR00022,13-01-2025,06:43,Tamil Nadu,Chennai,Public Order,Public Disturbance,Educational Institution,43,Not recorded,Charges Filed,Low
+CR01543,01-03-2025,11:09,karnataka,Mysuru,Violent Crime,Robbery,Road/Street,50,Female,Pending Court,High
+CR00032,17-04-2025,05:39,Tamil Nadu,Chennai,Fraud,Financial Scam,Online,36,Not recorded,Under Investigation,medium
+CR00097,17-11-2025,01:30,Tamil Nadu,Coimbatore,Public Order,Public Disturbance,Office,48,Not recorded,Under Investigation,High
+CR00709,29-04-2025,11:55,Andhra Pradesh,Vijayawada,Cybercrime,Online Harassment,Online,59,Not recorded,Pending Court,Critical
+CR00387,15-09-2025,08:43,Karnataka,Mysuru,Fraud,Online Fraud,Online,12,Other,Under Investigation,medium
+CR01237,02-08-2025,10:40,Tamil Nadu,Coimbatore,Violent Crime,Assault,Online,63,Not recorded,Closed,Low
+CR00809,26-07-2025,16:49,Tamil Nadu,Chennai,Fraud,Online Fraud,Online,32,male,Closed,medium
+CR01103,10-11-2025,07:11,Andhra Pradesh,Vijayawada,Cybercrime,Online Harassment,Online,32,Not recorded,Charges Filed,medium
+CR00539,31-01-2025,04:21,Karnataka,Mysuru,Property Crime,Vehicle Theft,Office,64,male,Pending Court,medium
+CR00477,14-02-2025,18:32,Tamil Nadu,CHENNAI,Property Crime,Vandalism,Market  ,38,male,Pending Court,medium
+CR00977,15-08-2025,04:53,Maharashtra,Pune,Fraud,Financial Scam,Online,12,Not recorded,Closed,High
+CR00633,09-10-2025,13:53,Delhi,New Delhi,Fraud,Online Fraud,Online,61,male,Closed,medium
+CR00091,02-07-2025,03:22,Maharashtra,Pune,Violent Crime,Robbery,Commercial Area,36,male,Under Investigation,Low
+CR00410,22-06-2025,07:05,Maharashtra,Mumbai,Fraud,Financial Scam,Online,22,Not recorded,Unresolved,medium
+CR01218,23-08-2025,20:24,Delhi,New Delhi,Cybercrime,Phishing  ,Online,39,Not recorded,Pending Court,Critical
+CR00046,06-04-2025,13:14,Karnataka,Bengaluru,Cybercrime,Phishing,Online,31,male,Under Investigation,medium
+CR01622,08-05-2025,10:04,Andhra Pradesh,Vijayawada,Fraud,Online Fraud,Online,54,male,Pending Court,medium
+CR01359,09-08-2025,10:26,Tamil Nadu,Chennai,Public Order,Drug Possession,Commercial Area,12,Female,Charges Filed,medium
+CR01274,18-02-2025,22:37,Telangana,Hyderabad,Violent Crime,Homicide,Market,34,Female,Closed,medium
+CR00575,01-12-2025,04:30,karnataka,Bengaluru,Property Crime,Vandalism,Office,62,Other,Pending Court,medium
+CR00395,06-08-2025,12:30,Maharashtra,Pune,Fraud,Financial Scam,Online,29,Female,Charges Filed,Low
+CR00578,07-08-2025,22:16,Telangana,Hyderabad,Public Order,Trespassing,Educational Institution,62,Not recorded,Charges Filed,Low
+CR00529,27-03-2025,23:56,Andhra Pradesh,Vijayawada,Cybercrime,  Online Harassment,Online,16,Other,Unresolved,Critical
+CR00905,25-02-2025,04:51,Maharashtra,Pune,Property Crime,Burglary,Road/Street,41,Other,Pending Court,Low
+CR00872,21-10-2025,06:47,Andhra Pradesh,Vijayawada,Cybercrime,Phishing,Online,17,Female,Closed,Low
+CR01141,23-03-2025,19:21,Tamil Nadu,Coimbatore,Property Crime,Burglary,Online,15,male,Charges Filed,Low
+CR00211,04-03-2025,09:13,Tamil Nadu,Coimbatore,Property Crime,Burglary,Commercial Area,33,Other,Unresolved,Low
+CR00670,28-04-2025,10:03,Maharashtra,Pune,Cybercrime,Phishing,Online,37,Female,Charges Filed,medium
+CR01665,24-05-2025,01:22,Telangana,Hyderabad,Violent Crime,Assault,Residential Area,15,male,Under Investigation,medium
+CR00481,26-08-2025,20:41,Maharashtra,Mumbai,Violent Crime,Robbery,Market,36,Female,Pending Court,medium
+CR01621,03-02-2025,10:14,Karnataka,Mysuru,Property Crime,Vandalism,Commercial Area,63,male,Unresolved,medium
+CR01714,11-01-2025,08:13,Tamil Nadu,Chennai,Fraud,Online Fraud,Online,35,male,Under Investigation,High
+CR01631,05-09-2025,02:20,Tamil Nadu,Chennai,Cybercrime,Phishing,Online,28,Other,Pending Court,medium
+CR00103,03-03-2025,12:36,Delhi,New Delhi,Fraud,Identity Fraud,Online,50,male,Pending Court,Low
+CR01645,14-04-2025,16:42,Telangana,Hyderabad,Cybercrime,Account Hacking,Online,36,Other,Under Investigation,Low
+CR00231,03-11-2025,19:56,Tamil Nadu  ,Chennai,Cybercrime,Online Harassment,Online,30,Not recorded,Closed,Low
+CR00926,30-09-2025,16:37,Tamil Nadu,Coimbatore,Property Crime,Theft,Office,34,Female,Charges Filed,medium
+CR00627,03-09-2025,23:40,Tamil Nadu,Coimbatore,Fraud,Identity Fraud,Online,12,Not recorded,Unresolved,medium
+CR00495,18-11-2025,14:58,Delhi,New Delhi,Violent Crime,Assault,Educational Institution,50,male,Under Investigation,High
+CR00568,05-08-2025,12:00,Maharashtra,Mumbai,Public Order,Public Disturbance,Online,41,Other,Closed,Low
+CR01678,10-07-2025,01:03,Andhra Pradesh,Vijayawada,Fraud,Identity Fraud,Online,47,Other,Charges Filed,Critical
+CR01698,12-01-2025,00:59,Tamil Nadu,Chennai,Cybercrime,Account Hacking,Online,40,male,Unresolved,medium
+CR01167,24-02-2025,21:27,Kerala,Kochi,Cybercrime,Account Hacking,Online,54,Female,Unresolved,medium
+CR01210,01-12-2025,11:44,Kerala,Kochi,Violent Crime,Homicide,Online,52,Not recorded,,Low
+CR01727,30-10-2025,16:41,Karnataka,Mysuru,Property Crime,Vehicle Theft,Online,60,Not recorded,Closed,medium
+CR01455,13-07-2025,16:12,Kerala,Kochi,Property Crime,Vehicle Theft,Office,31,Female,Charges Filed  ,medium
+CR00360,15-06-2025,17:48,Kerala,Kochi,Property Crime,Vandalism,Online,39,Female,Charges Filed,medium
+CR00480,24-07-2025,02:53,Tamil Nadu,Chennai,Violent Crime,Homicide,Commercial Area,42,Not recorded,Under Investigation,medium
+CR01295,08-03-2025,00:04,Karnataka,Mysuru,Violent Crime,Assault,Commercial Area,34,Other,Closed,medium
+CR00712,16-03-2025,23:18,Tamil Nadu,Coimbatore,Cybercrime,Account Hacking,Online,28,male,Charges Filed,medium
+CR01175,28-12-2025,20:46,Maharashtra,Pune,Cybercrime,Phishing,Online,58,male,Under Investigation,High
+CR01009,08-08-2025,23:48,Telangana,Hyderabad,Fraud,Financial Scam,Online,42,Not recorded,Closed,High
+CR00064,06-12-2025,20:09,Kerala,Kochi,Violent Crime,Assault,Educational Institution,69,male,Unresolved,medium
+CR01580,21-02-2025,03:28,Karnataka,Mysuru,Cybercrime,Account Hacking,Online,23,Other,Unresolved,medium
+CR00272,12-04-2025,23:50,Tamil Nadu,Coimbatore,Property Crime,Burglary,Commercial Area,39,male,Closed,High
+CR00131,13-09-2025,07:58,Karnataka,Bengaluru,Violent Crime,Robbery,Market,31,Not recorded,Charges Filed,medium
+CR01616,03-04-2025,07:29,Telangana,Hyderabad,Fraud,Financial Scam,Online,71,Not recorded,Charges Filed,medium
+CR00920,17-11-2025,21:15,Delhi,New Delhi,Violent Crime,Assault,Road/Street,49,Not recorded,CHARGES FILED,medium
+CR01441,24-12-2025,03:20,Maharashtra,Mumbai,Cybercrime,Account Hacking,Online,23,Other,Charges Filed,medium
+CR00422,16-10-2025,22:33,Telangana,Hyderabad,Violent Crime,Homicide,Office,32,Female,Charges Filed,medium
+CR00124,03-07-2025,10:55,Tamil Nadu,Coimbatore,Property Crime,Vehicle Theft,Office,45,Female,Pending Court,medium
+CR01213,26-10-2025,14:10,Andhra Pradesh,Vijayawada,Fraud,Financial Scam,Online,49,Other,Charges Filed,medium
+CR01526,26-11-2025,09:25,Telangana,Hyderabad,Property Crime,Theft,Commercial Area,28,Other,Closed,Low
+CR00143,13-12-2025,22:29,Telangana,Hyderabad,Public Order,Public Disturbance,Commercial Area,38,Other,Under Investigation,medium
+CR01547,20-04-2025,22:06,Tamil Nadu,Chennai,Property Crime,Vehicle Theft,Residential Area,22,male,Closed,medium
+CR00450,05-03-2025,09:02,Kerala,Kochi,Cybercrime,Account Hacking,Online,30,Not recorded,Closed,High
+CR00077,29-04-2025,00:39,Maharashtra,Mumbai,Public Order,Drug Possession,Commercial Area,48,Other,Closed,High
+CR01476,16-02-2025,01:54,Telangana,Hyderabad,Violent Crime,Robbery,Office,54,Not recorded,Unresolved,High
+CR01715,31-12-2025,05:53,Maharashtra,Mumbai,Violent Crime,Homicide,Commercial Area,40,Other,Closed,Low
+CR01266,05-06-2025,08:14,Karnataka,Bengaluru,Violent Crime,Homicide,Residential Area,47,male,Pending Court,High
+CR00907,03-09-2025,07:35,Andhra Pradesh,Vijayawada,Property Crime,Vehicle Theft,Public Transport,27,Other,Closed,medium
+CR01480,17-05-2025,19:15,Kerala,Kochi,Public Order,Trespassing,Road/Street,25,Not recorded,Closed,medium
+CR01585,04-08-2025,12:10,Karnataka,Mysuru,Property Crime,Theft,Market,60,Other,Charges Filed,Low
+CR00004,20-11-2025,02:10,Tamil Nadu,Coimbatore,Violent Crime,Homicide,Online,49,Other,Pending Court,High
+CR01550,20-08-2025,21:24,Maharashtra,Pune,Cybercrime,Account Hacking,online,51,Other,Unresolved,Critical
+CR01089,09-02-2025,19:32,Andhra Pradesh,Vijayawada,Violent Crime,Homicide,Market,59,Female,Closed,High
+CR00013,03-10-2025,13:00,Andhra Pradesh,Vijayawada,Fraud,Financial Scam,Online,53,Other,Closed,medium
+CR00383,06-11-2025,21:12,Karnataka,Mysuru,Cybercrime,Online Harassment,Online,18,Other,Unresolved,Low
+CR01280,08-04-2025,01:41,Kerala,Kochi,Fraud,Identity Fraud,Online,36,Other,Under Investigation,medium
+CR00375,15-04-2025,00:50,Kerala,Kochi,Violent Crime,Assault,Educational Institution,42,Female,Unresolved,Low
+CR00050,17-11-2025,08:28,Karnataka,Mysuru,Fraud,Identity Fraud,Online,43,Other,Closed,medium
+CR01516,16-10-2025,22:49,Kerala,Kochi,Property Crime,Burglary,Road/Street,37,Other,Unresolved,medium
+CR01077,19-12-2025,10:48,Tamil Nadu,Coimbatore,Property Crime,Vandalism,Residential Area,47,Other,Under Investigation,Low
+CR00902,25-02-2025,03:16,Maharashtra,Mumbai,Fraud,Financial Scam,Online,38,Other,Closed,High
+CR00590,26-01-2025,14:29,Maharashtra,Mumbai,Violent Crime,Homicide,Public Transport,35,Not recorded,Under Investigation,Low
+CR00623,22-03-2025,12:30,Maharashtra,Mumbai,Cybercrime,Online Harassment,Online,50,Not recorded,Unresolved,medium
+CR00441,20-09-2025,22:21,Tamil Nadu,Coimbatore,Fraud,Identity Fraud,Online,19,Female,Closed,High
+CR01122,28-10-2025,15:04,Tamil Nadu,Coimbatore,Violent Crime,Homicide,Online,38,Female,Pending Court,medium
+CR00328,17-01-2025,03:56,Maharashtra,Pune,Violent Crime,Homicide,Residential Area,23,Other,Closed,medium
+CR00292,21-08-2025,22:42,Maharashtra,Mumbai,Cybercrime,Phishing,Online,61,male,Charges Filed,Low
+CR01118,27-07-2025,20:25,Karnataka,Bengaluru,Violent Crime,Homicide,Residential Area,52,Not recorded,Unresolved,Low
+CR01612,04-11-2025,07:56,Maharashtra,Mumbai,Fraud,Online Fraud,Online,38,Other,Charges Filed,Low
+CR01158,20-04-2025,18:33,Tamil Nadu,Coimbatore,Property Crime,Vehicle Theft,Public Transport,31,Other,Closed,Low
+CR01646,18-10-2025,12:23,Delhi,New Delhi,Property Crime,Theft,Educational Institution,40,Female,Pending Court,medium
+CR00649,24-01-2025,06:33,Andhra Pradesh,Vijayawada,Property Crime,Vandalism,Market,46,male,Unresolved,High
+CR01732,16-06-2025,12:32,Telangana,Hyderabad,Property Crime,Vandalism,Public Transport,42,Not recorded,Unresolved,medium
+CR00373,06-07-2025,08:30,Telangana,Hyderabad,Violent Crime,  Robbery,Market,60,Not recorded,Unresolved,Critical
+CR01485,08-08-2025,19:55,Tamil Nadu,Chennai,PROPERTY CRIME,Theft,Educational Institution,14,Other,Closed,Low
+CR01657,10-04-2025,22:43,Andhra Pradesh,Vijayawada,Fraud,Financial Scam,Online,44,male,Charges Filed,Low
+CR00786,11-01-2025,00:30,Delhi,New Delhi,Public Order,Drug Possession,Online,45,male,Pending Court,Critical
+CR01020,18-06-2025,06:51,Maharashtra,Pune,Violent Crime,Homicide,Online,78,Other,Under Investigation,Critical
+CR00235,07-09-2025,18:30,Maharashtra  ,Mumbai,Fraud,Online Fraud,Online,22,Female,Charges Filed,Low
+CR00246,25-05-2025,09:05,Kerala,Kochi,Violent Crime,Homicide,Online,53,Not recorded,Charges Filed,Low
+CR00156,28-03-2025,00:28,Tamil Nadu,Chennai,Fraud,Identity Fraud,Online,50,Female,Charges Filed,Low
+CR01672,06-05-2025,06:24,Tamil Nadu,Coimbatore,Public Order,Trespassing,Road/Street,48,Not recorded,Pending Court,Low
+CR01182,14-04-2025,18:53,Andhra Pradesh,Vijayawada,Property Crime,Theft,Residential Area,26,Other,Charges Filed,Low
+CR00421,28-09-2025,11:26,Kerala,Kochi,Cybercrime,Account Hacking,Online,20,Not recorded,Closed,High
+CR01269,19-06-2025,00:46,Tamil Nadu,Chennai,Fraud,Identity Fraud,Online,31,Other,Unresolved,medium
+CR01417,01-04-2025,09:31,Delhi,New Delhi,Fraud,Online Fraud,Online,44,Other,Under Investigation,medium
+CR01559,19-07-2025,09:12,Telangana,Hyderabad,Fraud,Online Fraud,Online,21,Not recorded,Pending Court,medium
+CR01695,10-06-2025,06:20,Maharashtra,Pune,Violent Crime,Robbery,Residential Area,41,male,Pending Court,medium
+CR01031,24-04-2025,05:26,Tamil Nadu,Chennai,Violent Crime,Assault,Commercial Area,30,male,Under Investigation,medium
+CR01243,04-12-2025,22:22,Telangana,Hyderabad,Public Order,Drug Possession,Road/Street,35,Female,Charges Filed,Low
+CR01552,24-10-2025,18:46,Tamil Nadu,Chennai,Violent Crime,Homicide,Road/Street,33,Female,Charges Filed,Low
+CR00082,31-10-2025,12:53,Tamil Nadu,Chennai,Fraud,Identity Fraud,Online,36,male,Unresolved,High
+CR00169,12-05-2025,03:00,Delhi,New Delhi,Property Crime,BURGLARY,Office,54,Female,Closed,High
+CR00166,24-09-2025,05:05,Karnataka,Bengaluru,Violent Crime  ,Assault,Online,33,male,Pending Court,medium
+CR01038,15-03-2025,18:20,Tamil Nadu,Coimbatore,Cybercrime,Phishing,Online,42,Other,Under Investigation,medium
+CR01308,03-03-2025,11:11,Karnataka,Bengaluru,Cybercrime,Phishing,Online,14,male,Under Investigation,Low
+CR00944,05-12-2025,00:40,Maharashtra,Mumbai,Violent Crime,Assault,Road/Street,57,male,Closed,medium
+CR01755,19-02-2025,21:17,Maharashtra,Pune,Cybercrime,Account Hacking,Online,28,Not recorded,Closed,High
+CR01709,01-10-2025,02:08,Maharashtra,Pune,Violent Crime,Assault,Road/Street,35,Female,Pending Court,medium
+CR01568,25-06-2025,08:59,Maharashtra,Mumbai,Violent Crime,Homicide,Market,29,Not recorded,Under Investigation,medium
+CR00675,23-12-2025,03:12,Tamil Nadu,Coimbatore  ,Cybercrime,Account Hacking,Online,31,Other,Closed,Low
+CR00247,09-11-2025,10:29,Telangana,Hyderabad,Fraud,Identity Fraud,Online,19,Other,Charges Filed,medium
+CR00217,21-06-2025,14:18,Maharashtra,Mumbai,Violent Crime,Homicide,Office,70,Other,Closed,Low
+CR01028,22-12-2025,06:37,Karnataka,Mysuru,Fraud,Identity Fraud,Online,40,Not recorded,Closed,medium
+CR01091,27-12-2025,02:55,Telangana,Hyderabad,Violent Crime,Homicide,Public Transport,69,Other,Closed,Low
+CR00063,18-09-2025,01:55,Maharashtra,Pune,Public Order,Trespassing,Office,37,Other,Unresolved,Critical
+CR01084,23-05-2025,03:27,Karnataka,Bengaluru,Violent Crime,Robbery,Residential Area,13,Female,Unresolved,Low
+CR00457,23-03-2025,15:49,Maharashtra,Pune,Property Crime,Burglary,Online,16,Other,Charges Filed,medium
+CR00674,25-12-2025,17:28,Karnataka,Bengaluru,Fraud,Online Fraud,Online,33,male,Closed,medium
